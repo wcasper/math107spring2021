@@ -87,7 +87,6 @@ permalink: /extras/syllabus
 
   The following is a **tentative** grading scale translating your percentage grade to a final letter grade in the class.  While the actual grading scale will be determined at the end of the semester, the grade you get will be **at least** the grade reflected in the scale below.
 
-  <table style="width:100%">
   | Letter Grade | Pecentage |
   | ------------ | --------- |
   | A+ | 97-100  |
