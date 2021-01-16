@@ -6,7 +6,7 @@ permalink: /extras/syllabus
 
 <details>
   <summary markdown="span">Instructor information</summary>
-
+  <p>
   **Instructor:** Dr W. Riley Casper
 
   **Office:** McCarthy Hall 160A
@@ -16,39 +16,43 @@ permalink: /extras/syllabus
   **Office hourse:** to be determined.  Additional office hours are always available by request.
 
   **Course website:** we will use Canvas website (Spring 2021 MATH 107-3 21661), but will link additional information from a corresponding <a target="_parent" href="https://wcasper.github.io/math107spring2021">Github Pages site (link)</a> which you may find more convenient for pulling material.
+  </p>
 </details>
 
 <details>
   <summary markdown="span">Course meeting information</summary>
-
+  <p>
   * Section: 03
   * Course ID: 21661
   * Time: MW 8:00AM-9:50AM
   * Meeting Dates: 01/23/2021-05/14/2021
   * Location: online live synchronous lecture on Zoom
+  </p>
 </details>
 
 <details>
   <summary markdown="span">Course catalog description</summary>
-  This course is an introduction to linear algebra and computation with applications.  Linear algebra topics include Euclidean spaces, matrices and matrix arithmetic, solving systems of equations, and eigenvalues and eigenvectors.  Computation topics include variables, functions, conditionals, loops, and plotting.
+  <p>  This course is an introduction to linear algebra and computation with applications.  Linear algebra topics include Euclidean spaces, matrices and matrix arithmetic, solving systems of equations, and eigenvalues and eigenvectors.  Computation topics include variables, functions, conditionals, loops, and plotting.
 
   **Course prerequisites:** MAth 150A with a "C" (2.0) or better
+  </p>
 </details>
 
 <details>
   <summary markdown="span">Course objectives and learning goals</summary>
-
+  <p>
   By the end of this course, students will be able to:
   * manipulate matrices by hand and by using MATLAB, including performing matrix addition, multiplication, and row reduction
   * interpret vectors, matrices, and complex numbers algebraically and geometrically
   * find eigenvalues and eigenvectors of matrices and explain some of their applications
   * write introductory-level programs in MATLAB with an understanding of how to manipulate matrices, plot code, and write code that includes functions, loops, and conditional statements
   * communicate mathematics to others and collaborate in teams to complete tasks
+  </p>
 </details>
 
 <details>
   <summary markdown="span">Course Material</summary>
-
+  <p>
   ### Required Textbooks
   There are **two** required texbooks for this course:
 
@@ -71,11 +75,12 @@ permalink: /extras/syllabus
 
   ### Software for students
   You can get free and low-cost software for being an active CUSF student.  Software downloads and request forms can be found on the <a target="_parent" href=https://fullerton.edu/it/students/software/">CSUF student software website (link)</a>
+  </p>
 </details>
 
 <details>
   <summary markdown="span">Grading</summary>
-
+  <p>
   ### Grading scheme
 
   Homework: 25\%
@@ -100,11 +105,12 @@ permalink: /extras/syllabus
   | D  | 60-69.9 | 
   | F  |  0-59.9 |
 
+  </p>
 </details>
 
 <details>
   <summary markdown="span">Policies and expectations</summary>
-
+  <p>
 I reserve the right to adjust the policies in this syllabus on a case-by-case basis.
 
   **E-mail**
@@ -133,11 +139,12 @@ For the latter, you will need to provide a written solution which will be upload
   * typing your solution in LaTeX on Overleaf and then compiling and downloading the resultant pdf.
   * writing your solution and using a scanner or smartphone to scan it as a PDF document and upload it
   * using some other word processor such as Microsoft Word to create the document and then export it as a PDF
+  </p>
 </details>
 
 <details>
   <summary markdown="span">Exams</summary>
-
+  <p>
   Exams will take place during class at the times stated below. You will log into the class Zoom session and take the exam during a specified time.  Note that you must have video with both your face and hands visible and a working speaker and microphone during the exam.  The microphone should be muted during test-taking in order to not disturb your peers.
 
   If you have an accommodation from Disability Support Services (such as time-and-a-half), it is your responsibility to coordinate with the instructor before each exam.
@@ -152,31 +159,34 @@ For the latter, you will need to provide a written solution which will be upload
   **Final Exam**
   The final exam will be cumulative with both written and computational parts, and will account for 30\% of your grade.
   It will be held in our Zoom meeting on FIXME
+  </p>
 </details>
 
 <details>
   <summary markdown="span">Important academic calendar dates</summary>
-
+  <p>
   * January 23 to January 31: No signatures required to add or drop most classes. Add/Drop is through TITAN Online.
   * February 8: Last day for students to drop without a grade of ``W'' using Titan Online. Last day for students to ADD with a permit. All permits expire at midnight on September 8th.
   * April 23: Last day the Math Department will be flexible on the approval of non-medical withdrawal requests. Beginning Tuesday, September 22, students must have a serious and compelling reason for non-medical withdrawal requests and must provide supporting documentation for their reason.
   * May 7: Last day to withdrawal with a truly serious and compelling reason that is clearly beyond the student's control. Students must document their reason.
+  </p>
 </details>
 
 <details>
   <summary markdown="span">Academic integrity</summary>
-
+  <p>
   Students who violate university standards of academic integrity are subject to disciplinary sanctions, including failure in the course and suspension from the university. Since dishonesty in any form harms the individual, other students, and the university, policies on academic integrity are strictly enforced. Examples of academic dishonesty include, but are not limited to:
   1. copying from another student's homework, quiz, exam, or MATLAB code;
   2. allowing another student to copy your work; and
   3. copying homework solutions from the text solutions manual.
 
   You should familiarize yourself with the academic integrity guidelines found in the current student handbook.  Consult the <a target="_parent" href="http://www.fullerton.edu/senate/publications_policies_resolutions/ups/UPS%20300/UPS%20300.021.pdf">University Policy Statement (UPS) 300.021 regarding Academic Dishonesty (link)</a> for details.
+  </p>
 </details>
 
 <details>
   <summary markdown="span">Accommodations</summary>
-
+  <p>
   ### Disability Support Services (DSS)
   The university requires students with disabilities to register with the Office of Disability Support Services (DSS), located in UH-101, in order to receive prescribed accommodations appropriate to their disability. Students requesting accommodations should inform the instructor during the first week of classes about any disability or special needs that may require specific arrangements/accommodations related to attending class sessions, completing course assignments, writing papers or quizzes/tests/examinations. Additional information can be found by:
 
@@ -194,6 +204,7 @@ For the latter, you will need to provide a written solution which will be upload
 
   ### Religious and other accommodations
   If you require accommodations for religious or other reasons, please email the instructor.
+  </p>
 </details>
 
 
