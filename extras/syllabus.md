@@ -4,19 +4,20 @@ title: Syllabus
 permalink: /extras/syllabus
 ---
 
-<details>
-  <summary markdown="span">Instructor information</summary>
-  <p>
-  **Instructor:** Dr W. Riley Casper
+<details><summary>Instructor information</summary>
+<p>
 
-  **Office:** McCarthy Hall 160A
+**Instructor:** Dr W. Riley Casper
 
-  **Email:** wcasper@fullerton.edu
+**Office:** McCarthy Hall 160A
 
-  **Office hourse:** to be determined.  Additional office hours are always available by request.
+**Email:** wcasper@fullerton.edu
 
-  **Course website:** we will use Canvas website (Spring 2021 MATH 107-3 21661), but will link additional information from a corresponding <a target="_parent" href="https://wcasper.github.io/math107spring2021">Github Pages site (link)</a> which you may find more convenient for pulling material.
-  </p>
+**Office hourse:** to be determined.  Additional office hours are always available by request.
+
+**Course website:** we will use Canvas website (Spring 2021 MATH 107-3 21661), but will link additional information from a corresponding <a target="_parent" href="https://wcasper.github.io/math107spring2021">Github Pages site (link)</a> which you may find more convenient for pulling material.
+
+</p>
 </details>
 
 <details>
