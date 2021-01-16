@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Install Matlab
+permalink: /extras/install-MATLAB
 ---
 
 
