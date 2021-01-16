@@ -13,6 +13,8 @@ layout: post
 
 * Graded:
   <a target="_parent" href="https://csufullerton.instructure.com/courses/3127326/assignments/31019398">Flipgrid introduction assignment</a>
+  <a target="_top" href="https://csufullerton.instructure.com/courses/3127326/assignments/31019398">Flipgrid introduction assignment</a>
+  <a target="_blank" href="https://csufullerton.instructure.com/courses/3127326/assignments/31019398">Flipgrid introduction assignment</a>
 * Ungraded:
   [Install MATLAB](https://csufullerton.instructure.com/courses/3127326/pages/install-matlab?module_item_id=67996522)
 
