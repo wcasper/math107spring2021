@@ -4,7 +4,7 @@ title: Syllabus
 permalink: /extras/syllabus
 ---
 
-<details>
+<details markdown="span">
   <summary>Instructor information</summary>
 
   **Instructor:** Dr W. Riley Casper
@@ -18,7 +18,7 @@ permalink: /extras/syllabus
   **Course website:** we will use Canvas website (Spring 2021 MATH 107-3 21661), but will link additional information from a corresponding <a target="_parent" href="https://wcasper.github.io/math107spring2021">Github Pages site (link)</a> which you may find more convenient for pulling material.
 </details>
 
-<details>
+<details markdown="span">
   <summary>Course meeting information</summary>
 
   * Section: 03
@@ -28,14 +28,14 @@ permalink: /extras/syllabus
   * Location: online live synchronous lecture on Zoom
 </details>
 
-<details>
+<details markdown="span">
   <summary>Course catalog description</summary>
   This course is an introduction to linear algebra and computation with applications.  Linear algebra topics include Euclidean spaces, matrices and matrix arithmetic, solving systems of equations, and eigenvalues and eigenvectors.  Computation topics include variables, functions, conditionals, loops, and plotting.
 
   **Course prerequisites:** MAth 150A with a "C" (2.0) or better
 </details>
 
-<details>
+<details markdown="span">
   <summary>Course objectives and learning goals</summary>
 
   By the end of this course, students will be able to:
@@ -46,7 +46,7 @@ permalink: /extras/syllabus
   * communicate mathematics to others and collaborate in teams to complete tasks
 </details>
 
-<details>
+<details markdown="span">
   <summary>Course Material</summary>
 
   ### Required Textbooks
@@ -73,8 +73,8 @@ permalink: /extras/syllabus
   You can get free and low-cost software for being an active CUSF student.  Software downloads and request forms can be found on the <a target="_parent" href=https://fullerton.edu/it/students/software/">CSUF student software website (link)</a>
 </details>
 
-<details>
-<summary>Grading</summary>
+<details markdown="span">
+  <summary>Grading</summary>
 
   ### Grading scheme
 
@@ -102,7 +102,7 @@ permalink: /extras/syllabus
 
 </details>
 
-<details>
+<details markdown="span">
   <summary>Policies and expectations</summary>
 
 I reserve the right to adjust the policies in this syllabus on a case-by-case basis.
@@ -135,7 +135,7 @@ For the latter, you will need to provide a written solution which will be upload
   * using some other word processor such as Microsoft Word to create the document and then export it as a PDF
 </details>
 
-<details>
+<details markdown="span">
   <summary>Exams</summary>
 
   Exams will take place during class at the times stated below. You will log into the class Zoom session and take the exam during a specified time.  Note that you must have video with both your face and hands visible and a working speaker and microphone during the exam.  The microphone should be muted during test-taking in order to not disturb your peers.
@@ -154,7 +154,7 @@ For the latter, you will need to provide a written solution which will be upload
   It will be held in our Zoom meeting on FIXME
 </details>
 
-<details>
+<details markdown="span">
   <summary>Important academic calendar dates</summary>
 
   * January 23 to January 31: No signatures required to add or drop most classes. Add/Drop is through TITAN Online.
@@ -163,7 +163,7 @@ For the latter, you will need to provide a written solution which will be upload
   * May 7: Last day to withdrawal with a truly serious and compelling reason that is clearly beyond the student's control. Students must document their reason.
 </details>
 
-<details>
+<details markdown="span">
   <summary>Academic integrity</summary>
 
   Students who violate university standards of academic integrity are subject to disciplinary sanctions, including failure in the course and suspension from the university. Since dishonesty in any form harms the individual, other students, and the university, policies on academic integrity are strictly enforced. Examples of academic dishonesty include, but are not limited to:
@@ -174,7 +174,7 @@ For the latter, you will need to provide a written solution which will be upload
   You should familiarize yourself with the academic integrity guidelines found in the current student handbook.  Consult the <a target="_parent" href="http://www.fullerton.edu/senate/publications_policies_resolutions/ups/UPS%20300/UPS%20300.021.pdf">University Policy Statement (UPS) 300.021 regarding Academic Dishonesty (link)</a> for details.
 </details>
 
-<details>
+<details markdown="span">
   <summary>Accommodations</summary>
 
   ### Disability Support Services (DSS)
