@@ -5,7 +5,7 @@ permalink: /extras/syllabus
 ---
 
 <details>
-<summary>Instructor information</summary>
+<summary markdown="span">Instructor information</summary>
 
 **Instructor:** Dr W. Riley Casper
 **Office:** McCarthy Hall 160A
@@ -16,7 +16,7 @@ permalink: /extras/syllabus
 </details>
 
 <details>
-<summary>Course meeting information</summary>
+<summary markdown="span">Course meeting information</summary>
 
 Section: 03
 Course ID: 21661
@@ -27,7 +27,7 @@ Location: online live synchronous lecture on Zoom
 </details>
 
 <details>
-<summary>Course catalog description</summary>
+<summary markdown="span">Course catalog description</summary>
 This course is an introduction to linear algebra and computation with applications.  Linear algebra topics include Euclidean spaces, matrices and matrix arithmetic, solving systems of equations, and eigenvalues and eigenvectors.  Computation topics include variables, functions, conditionals, loops, and plotting.
 
 **Course prerequisites:** MAth 150A with a "C" (2.0) or better
@@ -35,7 +35,7 @@ This course is an introduction to linear algebra and computation with applicatio
 </details>
 
 <details>
-<summary>Course objectives and learning goals</summary>
+<summary markdown="span">Course objectives and learning goals</summary>
 By the end of this course, students will be able to:
 * manipulate matrices by hand and by using MATLAB, including performing matrix addition, multiplication, and row reduction
 * interpret vectors, matrices, and complex numbers algebraically and geometrically
@@ -46,7 +46,7 @@ By the end of this course, students will be able to:
 </details>
 
 <details>
-<summary>Course Material</summary>
+<summary markdown="span">Course Material</summary>
 ### Required Textbooks
 There are **two** required texbooks for this course:
 
@@ -79,7 +79,7 @@ You can get free and low-cost software for being an active CUSF student.  Softwa
 </details>
 
 <details>
-<summary>Grading</summary>
+<summary markdown="span">Grading</summary>
 
 ### Grading scheme
 
@@ -106,7 +106,7 @@ F   0-59.9
 </details>
 
 <details>
-<summary>Policies and expectations</summary>
+<summary markdown="span">Policies and expectations</summary>
 
 I reserve the right to adjust the policies in this syllabus on a case-by-case basis.
 
@@ -140,7 +140,7 @@ For the latter, you will need to provide a written solution which will be upload
 </details>
 
 <details>
-<summary>Exams</summary>
+<summary markdown="span">Exams</summary>
 
 Exams will take place during class at the times stated below. You will log into the class Zoom session and take the exam during a specified time.  Note that you must have video with both your face and hands visible and a working speaker and microphone during the exam.  The microphone should be muted during test-taking in order to not disturb your peers.
 
@@ -161,7 +161,7 @@ It will be held in our Zoom meeting on FIXME
 </details>
 
 <details>
-<summary>Important academic calendar dates</summary>
+<summary markdown="span">Important academic calendar dates</summary>
 
 * January 23 to January 31: No signatures required to add or drop most classes. Add/Drop is through TITAN Online.
 * February 8: Last day for students to drop without a grade of ``W'' using Titan Online. Last day for students to ADD with a permit. All permits expire at midnight on September 8th.
@@ -171,7 +171,7 @@ It will be held in our Zoom meeting on FIXME
 </details>
 
 <details>
-<summary>Academic integrity</summary>
+<summary markdown="span">Academic integrity</summary>
 
 Students who violate university standards of academic integrity are subject to disciplinary sanctions, including failure in the course and suspension from the university. Since dishonesty in any form harms the individual, other students, and the university, policies on academic integrity are strictly enforced. Examples of academic dishonesty include, but are not limited to:
 1. copying from another
@@ -184,7 +184,7 @@ You should familiarize yourself with the academic integrity guidelines found in 
 </details>
 
 <details>
-<summary>Accommodations</summary>
+<summary markdown="span">Accommodations</summary>
 
 ### Disability Support Services (DSS)
 The university requires students with disabilities to register with the Office of Disability Support Services (DSS), located in UH-101, in order to receive prescribed accommodations appropriate to their disability. Students requesting accommodations should inform the instructor during the first week of classes about any disability or special needs that may require specific arrangements/accommodations related to attending class sessions, completing course assignments, writing papers or quizzes/tests/examinations. Additional information can be found by:
