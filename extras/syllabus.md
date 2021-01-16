@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Syllabux
+title: Syllabus
 permalink: /extras/syllabus
 ---
 
