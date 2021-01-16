@@ -76,128 +76,122 @@ permalink: /extras/syllabus
 <details>
 <summary>Grading</summary>
 
-### Grading scheme
+  ### Grading scheme
 
-Homework: 25\%
-Quizzes: 15\%
-Midterm Exams: 2 at 15\% each
-Final Exam: 30\%
+  Homework: 25\%
+  Quizzes: 15\%
+  Midterm Exams: 2 at 15\% each
+  Final Exam: 30\%
 
-### Grading scale (tentative)
+  ### Grading scale (tentative)
 
-The following is a **tentative** grading scale translating your percentage grade to a final letter grade in the class.  While the actual grading scale will be determined at the end of the semester, the grade you get will be **at least** the grade reflected in the scale below.
+  The following is a **tentative** grading scale translating your percentage grade to a final letter grade in the class.  While the actual grading scale will be determined at the end of the semester, the grade you get will be **at least** the grade reflected in the scale below.
 
-A+ 97-100
-A  93-96.9
-A- 90-92.9
-B+ 87-89.9
-B  83-86.9
-B- 80-82.9
-C+ 77-79.9
-C  70-76.9
-D  60-69.9
-F   0-59.9
+  | A+ | 97-100  |
+  | A  | 93-96.9 |
+  | A- | 90-92.9 | 
+  | B+ | 87-89.9 | 
+  | B  | 83-86.9 |
+  | B- | 80-82.9 | 
+  | C+ | 77-79.9 | 
+  | C  | 70-76.9 | 
+  | D  | 60-69.9 | 
+  | F  |  0-59.9 |
 
 </details>
 
 <details>
-<summary>Policies and expectations</summary>
+  <summary>Policies and expectations</summary>
 
 I reserve the right to adjust the policies in this syllabus on a case-by-case basis.
 
-**E-mail**
-Please email me from your CSU Fullerton account, as other email addresses may be filtered into my Spam folder.
+  **E-mail**
+  Please email me from your CSU Fullerton account, as other email addresses may be filtered into my Spam folder.
 
-Allow me 24 hours to respond to your email before sending a follow-up email. My response time may be slower in the evenings or over weekends.
+  Allow me 24 hours to respond to your email before sending a follow-up email. My response time may be slower in the evenings or over weekends.
 
-**Attendance and Participation**
-If you miss any classes during the first week without notifying the instructor or the departmental office within 24 hours of the meeting, you may be dropped from the course.
+  **Attendance and Participation**
+  If you miss any classes during the first week without notifying the instructor or the departmental office within 24 hours of the meeting, you may be dropped from the course.
 
-Attendance and class participation are important components for success in this course. We will work through assigned in-class problems during our meetings.
+  Attendance and class participation are important components for success in this course. We will work through assigned in-class problems during our meetings.
 
-You will be expected to work in groups on in-class assignments. Be respectful, and make sure all team members have completed the task. The teamwork grade will be factored into the participation grade.
+  You will be expected to work in groups on in-class assignments. Be respectful, and make sure all team members have completed the task. The teamwork grade will be factored into the participation grade.
 
-You may also be asked to post in the Discussion Board. Before doing so, review the Forum Rules on our Canvas course site.
+  You may also be asked to post in the Discussion Board. Before doing so, review the Forum Rules on our Canvas course site.
 
 
-**Quizzes and Assigned Readings**
-You will be assigned a few sections of material to read prior to most class meetings. These are crucial for your understanding of the material in lectures and participation in in-class assignments.
+  **Quizzes and Assigned Readings**
+  You will be assigned a few sections of material to read prior to most class meetings. These are crucial for your understanding of the material in lectures and participation in in-class assignments.
 
-Quizzes containing material related to the readings or the previous lecture will be given through Canvas each week.
+  Quizzes containing material related to the readings or the previous lecture will be given through Canvas each week.
 
-**Homework**
-Homework assignments will feature both computational and analytic components.  For the former, the MATLAB code, all image files, any required screenshots, and any necessary written solutions for each assignment will need to be submitted through the course website on Canvas.
+  **Homework**
+  Homework assignments will feature both computational and analytic components.  For the former, the MATLAB code, all image files, any required screenshots, and any necessary written solutions for each assignment will need to be submitted through the course website on Canvas.
 For the latter, you will need to provide a written solution which will be uploaded with any relevant code as a PDF document.  Three possible ways of accomplishing this include
-* typing your solution in LaTeX on Overleaf and then compiling and downloading the resultant pdf.
-* writing your solution and using a scanner or smartphone to scan it as a PDF document and upload it
-* using some other word processor such as Microsoft Word to create the document and then export it as a PDF
-
+  * typing your solution in LaTeX on Overleaf and then compiling and downloading the resultant pdf.
+  * writing your solution and using a scanner or smartphone to scan it as a PDF document and upload it
+  * using some other word processor such as Microsoft Word to create the document and then export it as a PDF
 </details>
 
 <details>
-<summary>Exams</summary>
+  <summary>Exams</summary>
 
-Exams will take place during class at the times stated below. You will log into the class Zoom session and take the exam during a specified time.  Note that you must have video with both your face and hands visible and a working speaker and microphone during the exam.  The microphone should be muted during test-taking in order to not disturb your peers.
+  Exams will take place during class at the times stated below. You will log into the class Zoom session and take the exam during a specified time.  Note that you must have video with both your face and hands visible and a working speaker and microphone during the exam.  The microphone should be muted during test-taking in order to not disturb your peers.
 
-If you have an accommodation from Disability Support Services (such as time-and-a-half), it is your responsibility to coordinate with the instructor before each exam.
+  If you have an accommodation from Disability Support Services (such as time-and-a-half), it is your responsibility to coordinate with the instructor before each exam.
 
-**Midterm Exams**
-There will be two midterm exams, each lasting 1 hour.
-Each midterm will be worth 15\% of your final grade.
-Midterms will be held during class time in our Zoom meeting on the following dates:
-Wednesday, March 3, 2021
-Wednesday, April 14, 2021
+  **Midterm Exams**
+  There will be two midterm exams, each lasting 1 hour.
+  Each midterm will be worth 15\% of your final grade.
+  Midterms will be held during class time in our Zoom meeting on the following dates:
+  * Wednesday, March 3, 2021
+  * Wednesday, April 14, 2021
 
-**Final Exam**
-The final exam will be cumulative with both written and computational parts, and will account for 30\% of your grade.
-It will be held in our Zoom meeting on FIXME
-
-
+  **Final Exam**
+  The final exam will be cumulative with both written and computational parts, and will account for 30\% of your grade.
+  It will be held in our Zoom meeting on FIXME
 </details>
 
 <details>
-<summary>Important academic calendar dates</summary>
+  <summary>Important academic calendar dates</summary>
 
-* January 23 to January 31: No signatures required to add or drop most classes. Add/Drop is through TITAN Online.
-* February 8: Last day for students to drop without a grade of ``W'' using Titan Online. Last day for students to ADD with a permit. All permits expire at midnight on September 8th.
-* April 23: Last day the Math Department will be flexible on the approval of non-medical withdrawal requests. Beginning Tuesday, September 22, students must have a serious and compelling reason for non-medical withdrawal requests and must provide supporting documentation for their reason.
-* May 7: Last day to withdrawal with a truly serious and compelling reason that is clearly beyond the student's control. Students must document their reason.
-
+  * January 23 to January 31: No signatures required to add or drop most classes. Add/Drop is through TITAN Online.
+  * February 8: Last day for students to drop without a grade of ``W'' using Titan Online. Last day for students to ADD with a permit. All permits expire at midnight on September 8th.
+  * April 23: Last day the Math Department will be flexible on the approval of non-medical withdrawal requests. Beginning Tuesday, September 22, students must have a serious and compelling reason for non-medical withdrawal requests and must provide supporting documentation for their reason.
+  * May 7: Last day to withdrawal with a truly serious and compelling reason that is clearly beyond the student's control. Students must document their reason.
 </details>
 
 <details>
-<summary>Academic integrity</summary>
+  <summary>Academic integrity</summary>
 
-Students who violate university standards of academic integrity are subject to disciplinary sanctions, including failure in the course and suspension from the university. Since dishonesty in any form harms the individual, other students, and the university, policies on academic integrity are strictly enforced. Examples of academic dishonesty include, but are not limited to:
-1. copying from another
-student's homework, quiz, exam, or MATLAB code;
-2. allowing another student to copy your work; and
-3. copying homework solutions from the text solutions manual.
+  Students who violate university standards of academic integrity are subject to disciplinary sanctions, including failure in the course and suspension from the university. Since dishonesty in any form harms the individual, other students, and the university, policies on academic integrity are strictly enforced. Examples of academic dishonesty include, but are not limited to:
+  1. copying from another student's homework, quiz, exam, or MATLAB code;
+  2. allowing another student to copy your work; and
+  3. copying homework solutions from the text solutions manual.
 
-You should familiarize yourself with the academic integrity guidelines found in the current student handbook.  Consult the <a target="_parent" href="http://www.fullerton.edu/senate/publications_policies_resolutions/ups/UPS%20300/UPS%20300.021.pdf">University Policy Statement (UPS) 300.021 regarding Academic Dishonesty (link)</a> for details.
-
+  You should familiarize yourself with the academic integrity guidelines found in the current student handbook.  Consult the <a target="_parent" href="http://www.fullerton.edu/senate/publications_policies_resolutions/ups/UPS%20300/UPS%20300.021.pdf">University Policy Statement (UPS) 300.021 regarding Academic Dishonesty (link)</a> for details.
 </details>
 
 <details>
-<summary>Accommodations</summary>
+  <summary>Accommodations</summary>
 
-### Disability Support Services (DSS)
-The university requires students with disabilities to register with the Office of Disability Support Services (DSS), located in UH-101, in order to receive prescribed accommodations appropriate to their disability. Students requesting accommodations should inform the instructor during the first week of classes about any disability or special needs that may require specific arrangements/accommodations related to attending class sessions, completing course assignments, writing papers or quizzes/tests/examinations. Additional information can be found by:
+  ### Disability Support Services (DSS)
+  The university requires students with disabilities to register with the Office of Disability Support Services (DSS), located in UH-101, in order to receive prescribed accommodations appropriate to their disability. Students requesting accommodations should inform the instructor during the first week of classes about any disability or special needs that may require specific arrangements/accommodations related to attending class sessions, completing course assignments, writing papers or quizzes/tests/examinations. Additional information can be found by:
 
-* Visiting the DSS website
-* Calling 657-278-3112
-* Emailing dsservices@fullerton.edu.
+  * Visiting the DSS website
+  * Calling 657-278-3112
+  * Emailing dsservices@fullerton.edu.
 
-Please contact the following if you have:
-* General inquiries, questions, or concerns: dsservices@fullerton.edu
-* Accommodations or inquiries with your Specialist: dsspecialists@fullerton.edu
-* Exam proctoring questions/concerns: dsstesting@fullerton.edu
-* Accessible technology and accessible instructional materials: dssaccess@fullerton.edu
-* Deaf/hard of hearing: dssdhh@fullerton.edu
-* Notetaking questions/inquiries: dssnotetaking@fullerton.edu
+  Please contact the following if you have:
+  * General inquiries, questions, or concerns: dsservices@fullerton.edu
+  * Accommodations or inquiries with your Specialist: dsspecialists@fullerton.edu
+  * Exam proctoring questions/concerns: dsstesting@fullerton.edu
+  * Accessible technology and accessible instructional materials: dssaccess@fullerton.edu
+  * Deaf/hard of hearing: dssdhh@fullerton.edu
+  * Notetaking questions/inquiries: dssnotetaking@fullerton.edu
 
-### Religious and other accommodations
-If you require accommodations for religious or other reasons, please email the instructor.
+  ### Religious and other accommodations
+  If you require accommodations for religious or other reasons, please email the instructor.
 </details>
 
 
