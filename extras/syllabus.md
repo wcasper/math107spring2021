@@ -29,55 +29,48 @@ permalink: /extras/syllabus
 </details>
 
 <details>
-<summary>Course catalog description</summary>
-This course is an introduction to linear algebra and computation with applications.  Linear algebra topics include Euclidean spaces, matrices and matrix arithmetic, solving systems of equations, and eigenvalues and eigenvectors.  Computation topics include variables, functions, conditionals, loops, and plotting.
+  <summary>Course catalog description</summary>
+  This course is an introduction to linear algebra and computation with applications.  Linear algebra topics include Euclidean spaces, matrices and matrix arithmetic, solving systems of equations, and eigenvalues and eigenvectors.  Computation topics include variables, functions, conditionals, loops, and plotting.
 
-**Course prerequisites:** MAth 150A with a "C" (2.0) or better
-
+  **Course prerequisites:** MAth 150A with a "C" (2.0) or better
 </details>
 
 <details>
-<summary>Course objectives and learning goals</summary>
-By the end of this course, students will be able to:
-* manipulate matrices by hand and by using MATLAB, including performing matrix addition, multiplication, and row reduction
-* interpret vectors, matrices, and complex numbers algebraically and geometrically
-* find eigenvalues and eigenvectors of matrices and explain some of their applications
-* write introductory-level programs in MATLAB with an understanding of how to manipulate matrices, plot code, and write code that includes functions, loops, and conditional statements
-* communicate mathematics to others and collaborate in teams to complete tasks
+  <summary>Course objectives and learning goals</summary>
 
+  By the end of this course, students will be able to:
+  * manipulate matrices by hand and by using MATLAB, including performing matrix addition, multiplication, and row reduction
+  * interpret vectors, matrices, and complex numbers algebraically and geometrically
+  * find eigenvalues and eigenvectors of matrices and explain some of their applications
+  * write introductory-level programs in MATLAB with an understanding of how to manipulate matrices, plot code, and write code that includes functions, loops, and conditional statements
+  * communicate mathematics to others and collaborate in teams to complete tasks
 </details>
 
 <details>
-<summary>Course Material</summary>
-### Required Textbooks
-There are **two** required texbooks for this course:
+  <summary>Course Material</summary>
 
-1. *When Life is Linear: From Computer Graphics to Bracketology* by Tim Chartier
-2. Combined tet of *Fundamentals of Matrix Algebra* by Gregory Hartman and *An Introduction to MATLAB* by Troy Siemers 
-A free PDF of the second text will be supplied on the course website.
+  ### Required Textbooks
+  There are **two** required texbooks for this course:
 
-### Required technology
-For this course, you will need to have access to technology that will allow you to join Zoom lectures, join Zoom office hours, view and upload assignments on Canvas, and create MATLAB programs.
+  1. *When Life is Linear: From Computer Graphics to Bracketology* by Tim Chartier
+  2. Combined tet of *Fundamentals of Matrix Algebra* by Gregory Hartman and *An Introduction to MATLAB* by Troy Siemers 
+  A free PDF of the second text will be supplied on the course website.
 
-* **HARDWARE:** an actual working laptop or personal computer with both a microphone and a webcam.  This class has a large programming component and **cell phones or tablets will not cut it**.  If you don't have the required hardware, see Technology requests below.
+  ### Required technology
+  For this course, you will need to have access to technology that will allow you to join Zoom lectures, join Zoom office hours, view and upload assignments on Canvas, and create MATLAB programs.
 
-* **MATLAB:** MATLAB is a robust software package that is used by many scientists and engineers to model real-world phenomena.  You will be required to use MATLAB for in-class and homework assignments.  MATLAB is available for free to all CSUF students.  Visit the following <a target="_parent" href="https://csufullerton.instructure.com/courses/3127326/pages/install-matlab?module_item_id=67996522">link about installing MATLAB</a>.  It is strongly suggested that you have a personal laptop or desktop computer on which you can install MATLAB and do assignments.
+  * **HARDWARE:** an actual working laptop or personal computer with both a microphone and a webcam.  This class has a large programming component and **cell phones or tablets will not cut it**.  If you don't have the required hardware, see Technology requests below.
+  * **MATLAB:** MATLAB is a robust software package that is used by many scientists and engineers to model real-world phenomena.  You will be required to use MATLAB for in-class and homework assignments.  MATLAB is available for free to all CSUF students.  Visit the following <a target="_parent" href="https://csufullerton.instructure.com/courses/3127326/pages/install-matlab?module_item_id=67996522">link about installing MATLAB</a>.  It is strongly suggested that you have a personal laptop or desktop computer on which you can install MATLAB and do assignments.
+  * **Canvas:** We will be using the Canvas Learning Management System for all course materials and communication.  See below for details.
+  * **Zoom:** For this course, you will need to have access to technology that will allow you to join Zoom for lectures and office hours.
+  * **Internet:** You will require ongoing access to a computer with reliable internet connectivity for assignments and lectures
 
-* **Canvas:** We will be using the Canvas Learning Management System for all course materials and communication.  See below for details.
-
-* **Zoom:** For this course, you will need to have access to technology that will allow you to join Zoom for lectures and office hours.
-
-* **Internet:** You will require ongoing access to a computer with reliable internet connectivity for assignments and lectures
-
-### Technology requests
-
-If you do not have access to the necessary technology, you may be able to request a laptop, MiFi (wi-fi hotpot), and/or headset from the CSUF IT Department by filling out this <a target="_parent" href="https://apps.fullerton.edu/coviddevicerequest/Request.aspx">technology device request form (link)</a>.
+  ### Technology requests
+  If you do not have access to the necessary technology, you may be able to request a laptop, MiFi (wi-fi hotpot), and/or headset from the CSUF IT Department by filling out this <a target="_parent" href="https://apps.fullerton.edu/coviddevicerequest/Request.aspx">technology device request form (link)</a>.
 
 
-### Software for students
-
-You can get free and low-cost software for being an active CUSF student.  Software downloads and request forms can be found on the <a target="_parent" href=https://fullerton.edu/it/students/software/">CSUF student software website (link)</a>
-
+  ### Software for students
+  You can get free and low-cost software for being an active CUSF student.  Software downloads and request forms can be found on the <a target="_parent" href=https://fullerton.edu/it/students/software/">CSUF student software website (link)</a>
 </details>
 
 <details>
