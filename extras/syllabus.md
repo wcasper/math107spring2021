@@ -27,7 +27,7 @@ This course is an introduction to linear algebra and computation with applicatio
 
 **Course prerequisites:** MAth 150A with a "C" (2.0) or better
 
-##Course objectives and learning goals
+## Course objectives and learning goals
 By the end of this course, students will be able to:
 * manipulate matrices by hand and by using MATLAB, including performing matrix addition, multiplication, and row reduction
 * interpret vectors, matrices, and complex numbers algebraically and geometrically
