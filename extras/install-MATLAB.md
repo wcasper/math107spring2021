@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Install Matlab
-list_title: false
+page.list_title: false
 permalink: /extras/install-MATLAB
 ---
 
