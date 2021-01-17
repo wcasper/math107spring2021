@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: none
 title: Install Matlab
 permalink: /extras/install-MATLAB
 ---
