@@ -2,8 +2,8 @@
 layout: post
 ---
 
-## Week 1 Overview
-### Lectures
+## Lectures
+
 * Lecture 1: Course introduction
 * Lecture 2: Playing around with MATLAB
 
@@ -17,6 +17,8 @@ layout: post
   <a target="_parent" href="https://csufullerton.instructure.com/courses/3127326/pages/install-matlab?module_item_id=67996522">Install MATLAB</a>
 
 ## Code files for lectures
+
+
 
   
 
