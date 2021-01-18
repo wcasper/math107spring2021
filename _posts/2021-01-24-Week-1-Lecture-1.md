@@ -12,6 +12,9 @@ Notes and highlights from lecture
 
 ## Reading assignments
 
+* Read the syllabus
+* Familiarize yourself with the CANVAS webpage
+
 ## Course intro/hype slides
 This course is a 50/50 mix of **linear algebra** and **computer programming**.
 
@@ -47,7 +50,7 @@ temp = 65
 
 
 ## Additional resources
-
+**Lecture code:** <a target="_parent" href="https://wcasper.github.io/math107spring2021/MATLAB/lecture1.m">mfile for lecture (link)</a>
  
 
 
