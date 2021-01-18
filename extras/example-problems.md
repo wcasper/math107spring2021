@@ -35,12 +35,30 @@ $$E_{\text{rms}} = \left(\sum_j (m(t_j)-m_j)^2\right)^{1/2}.$$
 Your supervisor in the Space Force has obtained the following photo of a suspect in a recent space robbery.  Unfortunately, the picture is covered in strange squiggles and logos.  Your job is to come up with a good guess of what the original image looked like.
 
 <p align="center">
-  <img width="200" height="300" src="img/kirk.jpeg">
+  <img width="240" height="300" src="img/kirk.jpeg">
 </p>
 
 Fortunately, we can accomplish the task via digital image processing.  In the computer, the image is made up of a bunch of tiny, solid-colored boxes called **pixels**.  Each pixel has a specific color value, and by solving a linear system of equations relating pixel values to their neighbors we can perform a process called **in-painting** to fill in a good approximation of what the photo looks like without the damaged component.
 
 <p align="center">
-  <img width="200" height="300" src="img/kirk2.jpeg">
+  <img width="240" height="300" src="img/kirk2.jpeg">
 </p>
+
+## Data analysis and machine learning
+
+Your friend owns a house that they want to put on the market to sell and they need to figure out a fair asking price.  Several other houses in the neighborhood were sold recently, and the data for these houses is given by
+
+|lot size (sq. ft)|living space (sq. ft)|bedrooms|baths|floors|price (USD)|
+| --------------- | ------------------- | ------ | --- | ---- | --------- |
+|5650|1180|3|1|1|221900|
+|7242|2520|3|2|2|538000|
+|9000| 770|2|1|1|180000|
+|5000|1960|4|3|1|604000|
+|8080|1680|3|2|1|510000|
+
+Your friends house is a single-story with 1500 square feet of living space, a 6000 square ft total lot size, two bedrooms and two baths.  Your problem is to decide what value should we guess for him as a reasonable asking price.
+
+To do so, we can again use linear algebra!  We use a process called **linear regression** to fit the above data set to a linear model.  Then by inputting our friends data into our model, we can give a reasonable guess for the right asking price.
+
+
 
