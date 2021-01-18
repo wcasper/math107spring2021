@@ -22,12 +22,12 @@ My research focuses on applications of algebra and algebraic geometry to various
 * Exploring MicroRobots with graph theory/group theory
 
 ## Publications
-<a target="_parent" href="https://arxiv.org/abs/1803.04405">The Matrix Bochner Problem.</a> American J. Math (2020) to appear
-<a target="_parent" href="https://arxiv.org/abs/2002.07895">Bivariate cont. q-Hermite polynomials and quantum Serre relations.</a>  J. Algebra Appl. (2020)
-<a target="_parent" href="https://www.pnas.org/content/116/37/18310">Reflective prolate-spheroidal operators and the KP/KdV equations.</a>  Proc. Natl. Acad. of Sci. USA (2019)
-<a target="_parent" href="https://doi.org/10.1515/crelle-2019-0031">Integral operators, bispectrality and growth of Fourier algebras.</a> J. Reine Angew. Math "Crelle's Journal" (2019)
-<a target="_parent" href="https://www.sciencedirect.com/science/article/abs/pii/S0021904518300182">Elementary examples of solutions to Bochner's problem for matrix differential operators.</a> J. Approx. Theory (2018)
-<a target="_parent" href="https://arxiv.org/abs/1804.03719">Quantum Algorithm Implementations for Beginners.</a> arXiv (2018)
-<a target="_parent" href="https://www.sciencedirect.com/science/article/abs/pii/S1463500313001649">Ensemble-based global ocean data assimilation.</a> J. Ocean Modelling (2013)
+* <a target="_parent" href="https://arxiv.org/abs/1803.04405">The Matrix Bochner Problem.</a> American J. Math (2020) to appear
+* <a target="_parent" href="https://arxiv.org/abs/2002.07895">Bivariate cont. q-Hermite polynomials and quantum Serre relations.</a>  J. Algebra Appl. (2020)
+* <a target="_parent" href="https://www.pnas.org/content/116/37/18310">Reflective prolate-spheroidal operators and the KP/KdV equations.</a>  Proc. Natl. Acad. of Sci. USA (2019)
+* <a target="_parent" href="https://doi.org/10.1515/crelle-2019-0031">Integral operators, bispectrality and growth of Fourier algebras.</a> J. Reine Angew. Math "Crelle's Journal" (2019)
+* <a target="_parent" href="https://www.sciencedirect.com/science/article/abs/pii/S0021904518300182">Elementary examples of solutions to Bochner's problem for matrix differential operators.</a> J. Approx. Theory (2018)
+* <a target="_parent" href="https://arxiv.org/abs/1804.03719">Quantum Algorithm Implementations for Beginners.</a> arXiv (2018)
+* <a target="_parent" href="https://www.sciencedirect.com/science/article/abs/pii/S1463500313001649">Ensemble-based global ocean data assimilation.</a> J. Ocean Modelling (2013)
 
 
