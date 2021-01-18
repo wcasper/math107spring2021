@@ -22,16 +22,14 @@ The principal data objects in MATLAB are **matrices**, which are simply $$m\time
 $$A=  \left[\begin{array}{ccc}
 1 & 1 & 3\\
 0 & -1& 4\\
-\end{array}\right],\quad$$
-$$
+\end{array}\right],\quad
 B = \left[\begin{array}{cc}
 4 & 1\\
 2 & 3\\
 6 & 9
-\end{array}\right],\quad$$
-$$
-C = \left[
-1 & 1\\\begin{array}{cc}
+\end{array}\right],\quad
+C = \left[\begin{array}{cc}
+1 & 1\\
 2 & 3
 \end{array}\right]
 $$
