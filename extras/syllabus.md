@@ -41,7 +41,7 @@ There are **two** required texbooks for this course:
 
 1. *When Life is Linear: From Computer Graphics to Bracketology* by Tim Chartier
 2. Combined tet of *Fundamentals of Matrix Algebra* by Gregory Hartman and *An Introduction to MATLAB* by Troy Siemers 
-A free PDF of the second text will be supplied on the course website.
+The second textbook is available as a <a target="_parent" href="textbook.pdf">free PDF (link)</a>.
 
 ### Required technology
 For this course, you will need to have access to technology that will allow you to join Zoom lectures, join Zoom office hours, view and upload assignments on Canvas, and create MATLAB programs.
