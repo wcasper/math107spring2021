@@ -44,3 +44,7 @@ Please familiarize yourself with the syllabus and the Canvas site for this cours
 
 Please reach out as soon as possible if you have any questions or concerns.
 
+***
+
+## New posts!
+
