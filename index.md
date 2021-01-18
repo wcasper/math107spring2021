@@ -16,19 +16,13 @@ layout: home
 
 **Course meetings:** Monday and Wednesday 8:00AM-9:50AM
 
-
-**Zoom number for class:** <a target="_parent" href="https://fullerton.zoom.us/j/84861472803?pwd=QlNTVTZLUVFod245L3FJK1ZEYWUwQT09">84861472803</a>
-
-**Passcode:** 112358
-
 **Office hours:** To be determined
 
-**Zoom number for office hours:** <a target="_parent" href="https://fullerton.zoom.us/j/84861472803?pwd=QlNTVTZLUVFod245L3FJK1ZEYWUwQT09">84861472803</a>
+**Zoom number for class/office hours:** <a target="_parent" href="https://fullerton.zoom.us/j/84861472803?pwd=QlNTVTZLUVFod245L3FJK1ZEYWUwQT09">84861472803</a>
 
 **Passcode:** 112358
 
 **Syllabus:** <a target="_parent" href="extras/syllabus.md">Course syllabus (link)</a>
-
 
 **First steps**
 
