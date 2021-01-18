@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About your instructor
-permalink: /extras/install-MATLAB
+permalink: /extras/about-instructor
 ---
 
 ## W. Riley Casper
