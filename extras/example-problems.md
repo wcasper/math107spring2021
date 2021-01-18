@@ -35,12 +35,12 @@ $$E_{\text{rms}} = \left(\sum_j (m(t_j)-m_j)^2\right)^{1/2}.$$
 Your supervisor in the Space Force has obtained the following photo of a suspect in a recent space robbery.  Unfortunately, the picture is covered in strange squiggles and logos.  Your job is to come up with a good guess of what the original image looked like.
 
 <p align="center">
-  <img width="460" height="300" src="img/kirk.jpeg">
+  <img width="200" height="300" src="img/kirk.jpeg">
 </p>
 
 Fortunately, we can accomplish the task via digital image processing.  In the computer, the image is made up of a bunch of tiny, solid-colored boxes called **pixels**.  Each pixel has a specific color value, and by solving a linear system of equations relating pixel values to their neighbors we can perform a process called **in-painting** to fill in a good approximation of what the photo looks like without the damaged component.
 
 <p align="center">
-  <img width="460" height="300" src="img/kirk2.jpeg">
+  <img width="200" height="300" src="img/kirk2.jpeg">
 </p>
 
