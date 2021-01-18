@@ -8,7 +8,7 @@
 layout: home
 ---
 
-## Math 107 Introduction to Computational Linear Algebra
+## Math 107 Intro. to Computational Linear Algebra
 
 ### Instructor
 Dr. W. Riley Casper
