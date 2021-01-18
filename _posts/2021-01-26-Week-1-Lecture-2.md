@@ -22,7 +22,18 @@ The principal data objects in MATLAB are **matrices**, which are simply $$m\time
 $$A=  \left[\begin{array}{ccc}
 1 & 1 & 3\\
 0 & -1& 4\\
-\end{array}\right],\quad
+\end{array}\right],\quad$$
+$$
+B = \left[\begin{array}{cc}
+4 & 1\\
+2 & 3\\
+6 & 9
+\end{array}\right],\quad$$
+$$
+C = \left[
+1 & 1\\\begin{array}{cc}
+2 & 3
+\end{array}\right]
 $$
 
 which are examples of $$2\times 3,$$ $$3\times 2,$$ and $$2\times 2$$ matrices, respectively.  The first number indicates the number of rows and the second refers to the number of columns.  This pair of numbers is called the **shape** of a matrix.
