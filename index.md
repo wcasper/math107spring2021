@@ -8,8 +8,6 @@
 layout: home
 ---
 
-## Math 107 Intro. to Computational Linear Algebra
-
 **Instructor:** Dr. W. Riley Casper
 
 **Email:** wcasper@fullerton.edu
