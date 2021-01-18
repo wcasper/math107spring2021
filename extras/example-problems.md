@@ -25,6 +25,10 @@ where $$m_0$$ is the initial mass of the isotope and $$\lambda$$ is the half-lif
 
 By plotting this data, we can see that it *looks* like it fits a generally exponentially decreasing pattern, with maybe a little bit of noise.
 
+<p align="center">
+  <img width="350" height="300" src="img/curvefit.png">
+</p>
+
 
 If we can make our model as accurate as possible, then we can use it to predict what the mass of the isotope will be in the future.  Thus we want to know the values of the constants $$m_0$$ and $$\lambda$$ so that the model most closely fits the data.  Formally, we want to find a **least squares fit** of the data to the model, ie. values of the parameters $$m_0$$ and $$\lambda$$ minimizing the root mean square error
 
