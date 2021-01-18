@@ -4,7 +4,9 @@ title: About your instructor
 permalink: /extras/about-instructor
 ---
 
-![image of instructor](img/casper.jpg =600x600 "W. Riley Casper")
+## W. Riley Casper
+<img src="img/casper.jpg" width="400" height="400" />
+
 
 **Email:** wcasper@fullerton.edu
 
