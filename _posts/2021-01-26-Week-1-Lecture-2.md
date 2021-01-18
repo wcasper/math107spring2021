@@ -16,52 +16,89 @@ Notes and highlights from lecture
 
 ## Matrices
 
+## Basic definition
 The principal data objects in MATLAB are **matrices**, which are simply $$m\times n$$ arrays of numbers.  Examples of matrices are
 
-$$\left[\begin{array}{ccc}
+$$A=  \left[\begin{array}{ccc}
 1 & 1 & 3\\
 0 & -1& 4\\
 \end{array}\right],\quad
-\left[\begin{array}{cc}
+B = \left[\begin{array}{cc}
 4 & 1\\
 2 & 3\\
 6 & 9
 \end{array}\right],\quad
-\left[
+C = \left[
 1 & 1\\\begin{array}{cc}
 2 & 3
 \end{array}\right]
 $$
 
+which are examples of $$2\times 3,$$ $$3\times 2,$$ and $$2\times 2$$ matrices, respectively.  The first number indicates the number of rows and the second refers to the number of columns.  This pair of numbers is called the **shape** of a matrix.
+
+Matrices which have only one column, ie. $$m\times 1$$ matrices, are called **column vectors**.  Likewise, $$1\times n$$ matrices have only one row and are calld **row vectors**.
+
+The **$$(i,j)$$ entry** of a matrix is the entry in the $$i\text{'th}$$ row and $$j\text{'th}$$ column.  For example, the $$(3,2)$$ entry of the matrix $$B$$ above is $$9$$.
+
+We can also remove various rows and columns from a matrix to create a **submatrix**.  For example, if we remove the first row and the third column from the matrix $$A$$, then we end up with the submatrix
+
+$$\left[\begin{array}{cc}
+0 & -1\\
+\end{array}\right]$$
 
 ### Initializing matrices in MATLAB
+Creating a matrix in MATLAB is super easy!  For example, to initialize the matrix $$A$$ above we can use the code
 
-
-## Matlab first steps
-
-### Basic commands
-Matlab comes with the usual suspects of built-in functions, such as square roots and trigonometric functions
 ```Matlab
-sqrt(20)
-sin(pi)
-exp(1)
+A = [1,1,3;0,-1,4]
 ```
-Note that by default **all** inputs for trigonnometric functions are in radians instead of degrees, which incidentally is how things should always be once you've taken calculus.
+The semicolon indicates the point where the next row begins and commas separate different elements in the same row.  Note that we can also use spaces in place of commas.
 
-### Variables
-We can create variables using the = symbol.
-For example, the following code creates a variable $$x$$ and sets it equal to $$1$$
+We can access different elements in this matrix in a natural way.  For example, to access the $$(1,3)$$ entry of $$A$$ we can use the code
+
 ```Matlab
-x = 1
-```
-Variable names don't have to be single letters.  In fact, unlike in calculus, its better behavior when you are programming to use meaningful variable names.  For example, if the current temperature of an object is $$65$$ degrees, we could create a variable $$\text{temp}$$ and set it to $$65$$.
-```Matlab
-temp = 65
+A(1,3)
 ```
 
+which will return the value $$3$$.  We can also gather various submatrices.  To get the $$2\times 2$$ submatrix of $$A$$ consisting of only the first two rows and the first two columns, we can use the code
+
+```Matlab
+A(1:2,1:2)
+```
+
+More generally
+
+```Matlab
+M(a:b,c:d)
+```
+creates the submatrix of $$M$$ consisting of the rows between $$a$$ and $$b$$ and columns between $$c$$ and $$d$$.
+
+### Constructing typical matrices
+Some matrices come up often enough that MATLAB provides nicer ways to generate them.  Here are some typical examples:
+* **zero matrix:** to generate an $$m\times n$$ matrix whose entries are all zero, we can use the command
+
+```Matlab
+zeros(m,n)
+```
+
+* **ones matrix:** to generate an $$m\times n$$ matrix whose entries are all ones, we can use the command
+
+```Matlab
+ones(m,n)
+```
+
+* **identity matrix:** to generate an $$n\times n$$ matrix whose $$(i,j)$$ entry is $$0$$ if $$i\neq j$$ and $$1$$ if $$i=j$$, we can use the command
+
+```Matlab
+eye(m,n)
+```
+
+* **linearly spaced vectors:** to generate a row vector with $$n$$ entries which are evenly spaced between $$a$$ and $$b$$ we can use the command
+
+```Matlab
+linspace(a,b,n)
+```
 
 ## Additional resources
-
- 
 
 
