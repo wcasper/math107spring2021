@@ -58,7 +58,15 @@ Your friend owns a house that they want to put on the market to sell and they ne
 
 Your friends house is a single-story with 1500 square feet of living space, a 6000 square ft total lot size, two bedrooms and two baths.  Your problem is to decide what value should we guess for him as a reasonable asking price.
 
-To do so, we can again use linear algebra!  We use a process called **linear regression** to fit the above data set to a linear model.  Then by inputting our friends data into our model, we can give a reasonable guess for the right asking price.
+To do so, we can again use linear algebra!  We use a process called **linear regression** to fit the above data set to a linear model for the price.  Then by inputting our friends data into our model, we can give a reasonable guess for the right asking price.
 
+## Solving differential equations
+Many physical systems are governed by differential equations, which relate a certain physical quantity to its derivatives.
+For example, a differential equation describing the angle of a pendulum $$\theta$$ as a function of time $$t$$ in the presense of friction is
+
+$$\frac{d^2\theta}{dt^2} + \beta\frac{d\theta}{dt} + \kappa^2\theta = 0.$$
+
+The above equation relates the function $$\theta(t)$$ to its first and second derivatives, determining the function up to 
+We can approximate solutions to differential equations like this one by using linear algebra on a computer.
 
 
