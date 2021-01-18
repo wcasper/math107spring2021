@@ -11,7 +11,7 @@ Notes and highlights from lecture
 
 ## Reading assignments
 
-* <a target="_parent" href="../extras/textbook.pdf">primary text (link)</a>: chapter 1
+* <a target="_parent" href="../../extras/textbook.pdf">primary text (link)</a>: chapter 1
 * When Life is Linear: chapter 1
 
 ## Matrices
