@@ -100,5 +100,6 @@ linspace(a,b,n)
 ```
 
 ## Additional resources
+**Lecture code:** <a target="_parent" href="https://wcasper.github.io/math107spring2021/MATLAB/lecture2.m">mfile for lecture (link)</a>
 
 
