@@ -46,6 +46,10 @@ x = 2
 % this will return ans = 8
 x^3
 
+% Notice that when we define a variable, the terminal immediately creates output which basically reiterates the same assignment.  This is great initially for understanding, but when we are trying to build a large code, this output becomes a big distraction.  Luckily we can suppress the output by using a semcolon.  For example
+y = 3;
+% creates a variable y and sets it equal to 3, but prevents keeps the usual printed expression from happening after
+
 % Usually it makes sense for variable names to be more meaningful than single
 % letters.  For example, if the radius of a certain circle is 3, we could use
 radius = 3
