@@ -51,6 +51,10 @@ temp = 65
 
 ## Additional resources
 **Lecture code:** <a target="_parent" href="https://wcasper.github.io/math107spring2021/MATLAB/lecture1.m">mfile for lecture (link)</a>
- 
+
+**Lecture notes:** <a target="_parent" href="https://wcasper.github.io/math107spring2021/extras/notes/2021-01-25-Note-10-28.pdf">notes for lecture (link)</a>
+
+**Lecture video:** <a target="_parent" href="https://fullerton.zoom.us/rec/share/-hOM1qTmWvCl0Hg-s5NlXj45SZwl7Xxs5Xl_BAHRFozHJZPyfmRdU74aFXgUEG76.NHQTXkMNRdO3e7v8">recording of lecture (link)</a> Passcode: <pre>b*8N*w!q</pre>
+
 
 
