@@ -57,7 +57,7 @@ If you do not have access to the necessary technology, you may be able to reques
 
 
 ### Software for students
-You can get free and low-cost software for being an active CUSF student.  Software downloads and request forms can be found on the <a target="_parent" href=https://fullerton.edu/it/students/software/">CSUF student software website (link)</a>
+You can get free and low-cost software for being an active CUSF student.  Software downloads and request forms can be found on the <a target="_parent" href="https://fullerton.edu/it/students/software/">CSUF student software website (link)</a>
 
 ## Grading
 ### Grading scheme
