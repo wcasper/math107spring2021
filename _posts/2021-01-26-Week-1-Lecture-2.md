@@ -73,7 +73,7 @@ M(a:b,c:d)
 ```
 creates the submatrix of $$M$$ consisting of the rows between $$a$$ and $$b$$ and columns between $$c$$ and $$d$$.
 
-### Constructing typical matrices
+## Constructing typical matrices
 Some matrices come up often enough that MATLAB provides nicer ways to generate them.  Here are some typical examples:
 * **zero matrix:** to generate an $$m\times n$$ matrix whose entries are all zero, we can use the command
 
@@ -93,10 +93,34 @@ ones(m,n)
 eye(m,n)
 ```
 
+* **index vectors:** to generate a vector $$[j\ j+k\ j+2k\ j+3k\ \dots\ n]$$ use the **colon operator**
+
+```Matlab
+[j:k:n]
+```
+
 * **linearly spaced vectors:** to generate a row vector with $$n$$ entries which are evenly spaced between $$a$$ and $$b$$ we can use the command
 
 ```Matlab
 linspace(a,b,n)
+```
+
+## Submatrices and matrix entries
+To get the $$(i,j)$$ entry of a matrix $$A$$ in MATLAB we use the command
+
+```Matlab
+A(i,j)
+```
+
+To get the submatrix of $$A$$ consisting of a certain subset of the rows and columns, we can use the same tactic.  For example, the $$2\times 2$$ submatrix consisting of the first two rows and the first two columns is
+
+```Matlab
+A([1 2],[1 2])
+```
+
+Likewise, the submatrix consisting of all rows of the first, third and fifth columns is given by
+```Matlab
+A(:,[1 3 5])
 ```
 
 ## Additional resources
