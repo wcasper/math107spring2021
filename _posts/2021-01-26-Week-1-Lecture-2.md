@@ -126,4 +126,7 @@ A(:,[1 3 5])
 ## Additional resources
 **Lecture code:** <a target="_parent" href="https://wcasper.github.io/math107spring2021/MATLAB/lecture2.m">mfile for lecture (link)</a>
 
+**Lecture notes:** <a target="_parent" href="https://wcasper.github.io/math107spring2021/extras/notes/2021-01-27-Note-09-51.pdf">notes for lecture (link)</a>
+
+**Lecture video:** <a target="_parent" href="https://fullerton.zoom.us/rec/share/ihNVO_LpUHdFfytxoLK1t2npEld8wt4NOMlVbJijOzQA8BaCSm_6pfSKSsPJEf-2.ZYZ0Gao0OsPgNik7">recording of lecture (link)</a> Passcode: JUV$hR1U
 
