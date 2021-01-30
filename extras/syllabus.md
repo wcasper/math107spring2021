@@ -11,7 +11,7 @@ permalink: /extras/syllabus
 
 **Email:** wcasper@fullerton.edu
 
-**Office hourse:** to be determined.  Additional office hours are always available by request.
+**Office hourse:** Wednesdays 1-2PM and Thursdays 12-1PM.  Additional office hours are always available by request.
 
 **Course website:** we will use Canvas website (Spring 2021 MATH 107-3 21661), but will link additional information from a corresponding <a target="_parent" href="https://wcasper.github.io/math107spring2021">Github Pages site (link)</a> which you may find more convenient for pulling material.
 
