@@ -121,4 +121,15 @@ B(201:500,201:500,:) = AA;
 % Now let's see what our image looks like
 imshow(B)
 
+%% Linear combinations
+% The basic algebraic operations of linear algebra are
+%   * scalar multiplication
+%   * vector/matrix addition
+% In MATLAB, these operations are performed with * and +
+
+% For example, to multiply each entry of a matrix A by 2
+2*A
+
+% To add a matrix A and B (both of the same size)
+A + B
 
