@@ -66,9 +66,67 @@ B = \left[\begin{array}{cc}
 
 ## Image processing
 
+In MATLAB, color images are stored as matrices of pixels.
+
+**Definition:**  A **pixel** is a single, solid-colored square.
+
+The color of a pixel can be expressed in terms of a triple of integers, ranging between 0 and 255, called RGB values.  For grayscale images, we just use a single integer between 0 and 255, where 0 is black and 255 is white.
+
+Further examples of RGB values are
+* (255,255,255) is bright white
+* (255,0,0) is bright red
+* (155,0,0) is a much darker red
+* (0,255,255) is a mix of green and blue making a teal color
+
 ### Loading an image
 
-To load an image as a matrix of RGB values, we can use the imread() function.  
+To load an image as a matrix of RGB values, we can use the imread() function.  Note that it's very important that the image we try to load is in the current working directory!
+
+```Matlab
+A = imread("mittens.jpg");
+```
+
+Note that the semicolon keeps the computer from printing out a huge array of data onto the screen.
+We can see the size of the image with size()
+```Matlab
+size(A)
+```
+
+### Displaying an image
+
+We can display the same image by using the imshow() function
+
+```Matlab
+imshow(A)
+```
+
+### Downsampling
+
+We can resize an image by downsampling.  To throw all but every fourth pixel, we use
+
+```Matlab
+AA = A(1:4:end,1:4:end,:)
+```
+
+This creates a new image which is a quarter the size of the previous one.
+
+### Grayscale
+
+We can convert from RGB to grayscale by rgb2gray()
+
+```Matlab
+A_gray = rgb2gray(A)
+```
+
+### Superimposing images
+We can place a smaller image over a larger one.
+
+```Matlab
+B = imread("space.jpg")
+B(201:500,201:500,:) = AA
+```
+
+This repalces a 300x300 patch of pixels in B by the pixels of AA
 
 ## Additional resources
 
