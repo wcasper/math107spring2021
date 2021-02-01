@@ -128,6 +128,38 @@ B(201:500,201:500,:) = AA
 
 This repalces a 300x300 patch of pixels in B by the pixels of AA
 
+## Linear combinations
+
+The primary operations of linear algebra are
+* scalar multiplication
+* vector addition
+
+**Definition** when we combine multiple matrices together using vector addition and scalar multiplication, we get a **linear combination**.
+
+### Scalar multiplication
+
+**Definition** A number like $$2$$ or $$5$$ or $$\sqrt{3}$$ is called a **scalar**.  If $$A$$ is a matrix and $$b$$ is a scalar, then **scalar multiplication** multiplies every entry of $$A$$ by $$b$$, forming the matrix $$bA$$.
+
+For example, starting with a matrix $$A$$ where every entry is multiplied by $$3$$, we can use
+```Matlab
+3*A
+```
+
+### Vector/matrix addition
+
+**Definition** Given matrices $$A$$ and $$B$$ which are the same size, **matrix addition** produces a matrix $$A+B$$ whose entries are the sums of the corresponding entries in $$A$$ and $$B$$.
+
+In MATLAB, this is done by
+```Matlab
+A + B
+```
+
 ## Additional resources
+**Lecture code:** <a target="_parent" href="https://wcasper.github.io/math107spring2021/MATLAB/lecture3.m">mfile for lecture (link)</a>
+
+**Lecture notes:** <a target="_parent" href="https://wcasper.github.io/math107spring2021/extras/notes/2021-02-01-Note-10-22.pdf">notes for lecture (link)</a>
+
+**Lecture video:** <a target="_parent" href="https://fullerton.zoom.us/rec/share/-XSMkxEIryg3KXXoDXZj-UEizt7FIz2zcYnwyljDU3txKPcEQpXBKT1M9PRwRYSH.KqFZzxEeBubp1B__">recording of lecture (link)</a> Passcode: +CcSL6i@
+
 
 
