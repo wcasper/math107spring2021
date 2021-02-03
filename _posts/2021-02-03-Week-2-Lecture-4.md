@@ -59,7 +59,7 @@ sort of weighted average of the matrices $$A$$ and $$B$$
 
 $$aA + (1-a)A$$
 
-for some $$0\leq a\leq 1$$ whose value determines the relative amounts of $$A$$ or $$B$ we include.
+for some $$0\leq a\leq 1$$ whose value determines the relative amounts of $$A$$ or $$B$$ we include.
 
 ## MATLAB built-in functions
 
