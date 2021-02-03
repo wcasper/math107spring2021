@@ -28,9 +28,9 @@ layout: post
 
 ## Homework
 
-* Graded:
-  <a target="_parent" href="https://csufullerton.instructure.com/courses/3127326/assignments/31396318">Homework 1 Part 1</a>
-  <a target="_parent" href="https://csufullerton.instructure.com/courses/3127326/assignments/31406329">Homework 1 Part 2</a>
+* <a target="_parent" href="https://csufullerton.instructure.com/courses/3127326/assignments/31396318">Homework 1 Part 1</a>
+
+* <a target="_parent" href="https://csufullerton.instructure.com/courses/3127326/assignments/31406329">Homework 1 Part 2</a>
 
 ## Code files for lectures
 **Lecture code:** <a target="_parent" href="https://wcasper.github.io/math107spring2021/MATLAB/lecture3.m">mfile for lecture 3 (link)</a>
