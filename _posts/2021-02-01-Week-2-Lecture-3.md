@@ -159,7 +159,10 @@ A + B
 
 **Lecture notes:** <a target="_parent" href="https://wcasper.github.io/math107spring2021/extras/notes/2021-02-01-Note-10-22.pdf">notes for lecture (link)</a>
 
-**Lecture video:** <a target="_parent" href="https://fullerton.zoom.us/rec/share/-XSMkxEIryg3KXXoDXZj-UEizt7FIz2zcYnwyljDU3txKPcEQpXBKT1M9PRwRYSH.KqFZzxEeBubp1B__">recording of lecture (link)</a> Passcode: +CcSL6i@
+**Lecture video:** <a target="_parent" href="https://fullerton.zoom.us/rec/share/-XSMkxEIryg3KXXoDXZj-UEizt7FIz2zcYnwyljDU3txKPcEQpXBKT1M9PRwRYSH.KqFZzxEeBubp1B__">recording of lecture (link)</a>
+
+The passcode can be found on the <a target="_parent" href="https://csufullerton.instructure.com/courses/3127326/pages/video-lecture-keys">passcode page (link)</a>
+
 
 
 

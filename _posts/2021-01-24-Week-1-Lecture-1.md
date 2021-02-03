@@ -54,7 +54,9 @@ temp = 65
 
 **Lecture notes:** <a target="_parent" href="https://wcasper.github.io/math107spring2021/extras/notes/2021-01-25-Note-10-28.pdf">notes for lecture (link)</a>
 
-**Lecture video:** <a target="_parent" href="https://fullerton.zoom.us/rec/share/-hOM1qTmWvCl0Hg-s5NlXj45SZwl7Xxs5Xl_BAHRFozHJZPyfmRdU74aFXgUEG76.NHQTXkMNRdO3e7v8">recording of lecture (link)</a> Passcode: b\*8N\*w\!q
+**Lecture video:** <a target="_parent" href="https://fullerton.zoom.us/rec/share/-hOM1qTmWvCl0Hg-s5NlXj45SZwl7Xxs5Xl_BAHRFozHJZPyfmRdU74aFXgUEG76.NHQTXkMNRdO3e7v8">recording of lecture (link)</a>
+
+The passcode can be found on the <a target="_parent" href="https://csufullerton.instructure.com/courses/3127326/pages/video-lecture-keys">passcode page (link)</a>
 
 
 
