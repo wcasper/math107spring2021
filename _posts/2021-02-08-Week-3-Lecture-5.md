@@ -108,6 +108,21 @@ To help  distinguish between multiple curves on the same graph, we can use a leg
 legend("label for first graph","label for second graph",...)
 ```
 
+**Example:**
+
+```Matlab
+x = linspace(0,2*pi,100);
+y = sin(x);
+z = cos(x);
+plot(x,y)
+hold on
+plot(x,z)
+legend("sine","cosine")
+xlabel("angle")
+ylabel("function value")
+title("The Basic Trigonometric Functions")
+```
+
 ## Other types of graphs
 
 * Bar graphs
