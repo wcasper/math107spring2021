@@ -1,0 +1,130 @@
+---
+layout: page
+title: Worksheet 1
+permalink: /worksheets/ws1
+---
+
+## Visualizing global sea surface temperature
+
+The National Oceanic and Atmospheric Administration (NOAA) provides publically
+available climatological data sets obtained from a variety of sources,
+including real-world observations, numerical model, and statistical analysis.
+
+In this worksheet, we will analyze sea surface temperature obtained from combining numerical models with real-world data via data reanalysis (NOAA ERSSTv5).  The data set has been downloaded from the <a target="_parent" href="https://www.ncdc.noaa.gov/data-access/marineocean-data/extended-reconstructed-sea-surface-temperature-ersst-v5"> NOAA website (link)</a> and is available directly in the additional resources below.
+
+**Nerd alert:**  We should nerd out for a second.  This data is based on a **massive effort** combining huge numbers of real world observations with numerical simulations run on some of the largest supercomputers in the world.  And we get to use it.  For free.
+
+
+Our objective in this worksheet is to read and analyze this data in groups.  Make sure to rely on your group partners if you get stuck!  If everyone is stuck, call for me for help.
+
+### Step 1: load the data
+
+The data file is called ersst.v5.2020.asc.  To load this data file, make sure that it is in the working directory for MATLAB and run the command
+
+```Matlab
+sst = load("ersst.v5.2020.asc");
+sst = reshape(sst,180,12,89);
+sst = permute(sst,[3,1,2]);
+```
+
+The first command reads in the data from the data file.  The second command reshapes the data into an array called sst, which has the expected size and shape.  The third command reorders the array dimensions.  In particular, the shape is $$180\times 12\times 89$$.  You can double-check this with the size command.
+
+```Matlab
+size(sst)
+```
+
+### Step 2: Understand the data
+
+If we carefully read the information provided on the NOAA website, we discover
+
+* sst(j,k,m) is the average sea surface temperature at latitude $$2j$$ and longitude $$2k$$ in the $$m$$'th month of the year 2020.
+* the temperature units are in terms of $$100\deg C$$
+* places where there is no sea surface temperature (ie. land) are set to value $$-9999$$
+
+In MATLAB, we have another way to tell the computer that there is no value at a spot, using the data value NaN (short for not a number).  Let's change the value of sst at land points from -9999 to NaN.  To do this, we can run the command
+
+```Matlab
+land_pos = sst==-9999     % generates a list of indices (ie. places) where sst is equal to -9999
+sst(land_pos) = NaN       % sets sst at the land positions equal to NaN
+```
+
+We can also convert the sea surface temperature data to usual celsius by using **scalar multiplication**.  We multiply by a factor of $$0.01$$.
+
+```Matlab
+sst = 0.01*sst
+```
+
+### Step 3: Visualizing the data
+
+To visualize the data, we can plot it.  One nice plotting function for this kind of data is a contour plot, which generates a kind of topographical figure showing the temeratures at various positions.  To create a contour plot of the sea surface temperature in January, run the code
+
+```Matlab
+contourf(sst(:,:,1))
+```
+
+You should notice that the familiar shapes of some continents are present, showing omitted values where there is land.
+
+**Remark:** The careful observer will notice that at some places the sea surface temperature is below $$0$$, even though water supposedly freezes at $$0$$ degrees celsius.  It turns out that the presence of salt lowers the freezing temperature of water is about $$-1.8$$ degrees celsius.  Notice, no temperatures are colder than this as they would actuall be frozen!
+
+To understand numerically what the colors represent, use the colorbar command to add a color bar to the figure.
+
+```Matlab
+colorbar
+```
+
+If we want an even more detailed contour plot, we can add more contour levels.  The following creates a contour plot of the sea surface temperature in July with $$100$$ contour levels
+
+```Matlab
+contourf(sst(:,:,7),100)
+```
+
+You will have to rerun colorbar to generate the color bar for this new plot.
+
+If we want to see more than one, we can use **subplots**.
+
+For example, the following command creates plots for January, April, July, and October and plots them in the same window in a $$2\times 2$$ grid and labels which is which
+
+```Matlab
+subplot(2,2,1)
+contourf(sst(,:,:,1),100)
+xlabel("January")
+subplot(2,2,2)
+contourf(sst(,:,:,4),100)
+xlabel("April")
+subplot(2,2,3)
+contourf(sst(,:,:,7),100)
+xlabel("July")
+subplot(2,2,4)
+contourf(sst(,:,:,10),100)
+xlabel("October")
+```
+
+## Analyze the sea surface temperature
+
+### Average annual sea surface temperature
+To get the average annual sea surface temperature in the year $$2020$$, we can average each of the sea surface temperatures over the twelve months.  Since the third index determines the month, we use the command
+
+```Matlab
+sst2020avg = mean(sst,3);
+```
+
+This makes sst2020avg into a $$180\times89$$ array.  To see what it looks like we can use
+
+```Matlab
+contourf(sst2020avg,100);
+```
+
+To find the maximum average value of the sea surface temperature in 2020, we can then use the max() function
+
+```Matlab
+max_sst_vs_lat = max(sst2020avg);  % creates a row vector of sst values, one for every latitude
+max_sst = max(max_sst_vs_lat);     % gets the maximum of the sea surface temperatures
+```
+
+Make sure to remember this number!  You will find it useful for the self-assessment for this lecture.
+
+## Additional resources
+
+**Sea surface temperature data for 2020:** <a target="_parent" href="https://wcasper.github.io/math107spring2021/worksheets/ws1/ersst.v5.2020.asc">ascii data file (link)</a>
+
+
