@@ -27,7 +27,7 @@ sst = reshape(sst,180,12,89);
 sst = permute(sst,[3,1,2]);
 ```
 
-The first command reads in the data from the data file.  The second command reshapes the data into an array called sst, which has the expected size and shape.  The third command reorders the array dimensions.  In particular, the shape is $$180\times 12\times 89$$.  You can double-check this with the size command.
+The first command reads in the data from the data file.  The second command reshapes the data into an array called sst, which has the expected size and shape.  The third command reorders the array dimensions.  In particular, the shape is $$89\times 180\times 12$$.  You can double-check this with the size command.
 
 ```Matlab
 size(sst)
