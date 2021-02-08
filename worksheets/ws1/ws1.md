@@ -123,6 +123,8 @@ takes the maximum of the maxima of the columns, which will be a single value: th
 max(max(sst(:,:,1)))  % highest temperature in January
 max(max(sst(:,:,7)))  % highest temperature in July
 ```
+Make sure to remember these numbers!  They may be useful for the self-assessment for this lecture.
+
 
 ### Average annual sea surface temperature
 
