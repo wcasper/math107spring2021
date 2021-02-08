@@ -138,7 +138,7 @@ To get the average annual sea surface temperature in the year $$2020$$, we can a
 sst2020avg = mean(sst,3);
 ```
 
-This makes sst2020avg into a $$180\times89$$ array.  To see what it looks like we can use
+This makes sst2020avg into a $$89\times 180$$ array.  To see what it looks like we can use
 
 ```Matlab
 contourf(sst2020avg,100);
