@@ -86,22 +86,46 @@ For example, the following command creates plots for January, April, July, and O
 
 ```Matlab
 subplot(2,2,1)
-contourf(sst(,:,:,1),100)
+contourf(sst(:,:,1),100)
 xlabel("January")
 subplot(2,2,2)
-contourf(sst(,:,:,4),100)
+contourf(sst(:,:,4),100)
 xlabel("April")
 subplot(2,2,3)
-contourf(sst(,:,:,7),100)
+contourf(sst(:,:,7),100)
 xlabel("July")
 subplot(2,2,4)
-contourf(sst(,:,:,10),100)
+contourf(sst(:,:,10),100)
 xlabel("October")
 ```
 
 ## Analyze the sea surface temperature
 
+### Maximum temperature
+
+To get the maximum sea surface temperature for a particular monthly average, we can use the max() function.
+
+Remember if $$A$$ is a matrix, then 
+
+```Matlab
+max(A)
+```
+
+creates a row vector whose entries are the maximums of each column of A.  Therefore
+
+```Matlab
+max(max(A))
+```
+
+takes the maximum of the maxima of the columns, which will be a single value: the largest value in the matrix $$A$$.  Thus to get the highest temperature in January vs. in July, we can use
+
+```Matlab
+max(max(sst(:,:,1)))  % highest temperature in January
+max(max(sst(:,:,7)))  % highest temperature in July
+```
+
 ### Average annual sea surface temperature
+
 To get the average annual sea surface temperature in the year $$2020$$, we can average each of the sea surface temperatures over the twelve months.  Since the third index determines the month, we use the command
 
 ```Matlab
