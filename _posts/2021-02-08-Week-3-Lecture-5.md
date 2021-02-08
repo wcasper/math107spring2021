@@ -19,7 +19,7 @@ Notes and highlights from lecture
 The following code plots $$\sin(x)$$ for $$0\leq x\leq 2\pi$$ with $$100$$ points.
 
 ```Matlab
-x= \linspace(0,2*pi,100);
+x= linspace(0,2*pi,100);
 y = sin(x);
 plot(x,y)
 ```
