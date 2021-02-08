@@ -4,6 +4,10 @@ title: Worksheet 1
 permalink: /worksheets/ws1
 ---
 
+## Directions
+
+This is a self-guided **group worksheet**.  Work with your group members to follow the instructions below and explore!  Note that some of the results will be assessed later, so make sure you do it right!
+
 ## Visualizing global sea surface temperature
 
 The National Oceanic and Atmospheric Administration (NOAA) provides publically
