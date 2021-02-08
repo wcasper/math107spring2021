@@ -153,6 +153,28 @@ max_sst = max(max_sst_vs_lat);     % gets the maximum of the sea surface tempera
 
 Make sure to remember this number!  You will find it useful for the self-assessment for this lecture.
 
+## Challenge problem: Ice, Ice Baby!
+
+### Problem
+
+You might have noticed that the lowest sea surface temperature you can find is $$-1.8\deg C$$.  We can therefore approximate that every space that is $$-1.8\deg C$$ is actually ice!  Therefore the arrays
+
+```Matlab
+ice = sst == -1.8   % location is ice
+sea = sst ~= NaN    % location is ice or water
+```
+
+have the same dimensions as the sea surface temperature array, but the first has a $$1$$ in positions where there is ice and a $$0$$ in positions where there is not.  The second has a $$1$$ in positions where there is ice or water and a $$0$$ in positions where there is land.
+Can you use this to estimate the percentage of the sea that is covered in ice in January?
+
+### Solution
+
+```
+num_ice = sum(sum(ice(:,:,1)));
+num_sea = sum(sum(sea(:,:,1)));
+percent_ice = num_ice/num_sea
+```
+
 ## Additional resources
 
 **Sea surface temperature data for 2020:** <a target="_parent" href="https://wcasper.github.io/math107spring2021/worksheets/ws1/ersst.v5.2020.asc">ascii data file (link)</a>
