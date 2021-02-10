@@ -123,11 +123,11 @@ x == 2 xor y == 3 % returns false
 
 We can write code that executes only under a certain condition using the if, elseif, and else commands.  Suppose for example, we want make the piecewise defined function
 
-$$f(x) = \left\lbrace
+$$f(x) = \left\lbrace\begin{array}{cc}
 x^2 & x < 0\\
 0   & 0 \leq x < 1\\
 x-1 & x \geq 1
-\right.$$
+\end{array}\right.$$
 
 In MATLAB, we could use the code in a file myfunction.m
 
