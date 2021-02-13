@@ -27,7 +27,7 @@ Compute by hand the following quantities
 
 * 2A - 3B
 
-** Problem 2:**
+**Problem 2:**
 
 * Find the values of scalars $$a$$ and $$b$$ satisfying
 
