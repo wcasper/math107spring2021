@@ -62,5 +62,5 @@ figure
 
 **Problem 4:**
 To get an even cooler picture of the Lorenz Attractor, we can create a three dimensional plot.
-* Run the command plot3(x,y,z) to generate a three-dimensional plot of the trajectory of the particle.  You can click and drag with the mouse on the resulting plot to view it from different angles.
+* Run the command plot3(x,z,y) to generate a three-dimensional plot of the trajectory of the particle.
 
