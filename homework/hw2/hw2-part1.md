@@ -38,6 +38,11 @@ to get the $$x$$, $$y$$, and $$z$$-coordinates of the particle during the first 
 By plotting $$z$$ versus $$x$$, we can create an image of the trajectory the particle followed in the first $$100$$ seconds.  For this system, the particles trajectory is quite striking, and is referred to as a **strange attractor** or the **Lorenz attractor**
 * Create a plot of $$z$$ versus $$x$$.
 * Set the title equal to "Lorenz Attractor"
+* Lastly run the figure command, so that any future plot don't accidentally erase the one we just made
+
+```Matlab
+figure
+```
 
 **Problem 3:**
 We can get a better idea of how the particles trajectory evolves over time.
@@ -52,6 +57,7 @@ subplot(2,2,3)
 blot(x(1:1200),z(1:1200))
 subplot(2,2,4)
 blot(x(1:1600),z(1:1600))
+figure
 ```
 
 **Problem 4:**
