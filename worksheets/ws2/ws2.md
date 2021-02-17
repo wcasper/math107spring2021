@@ -69,7 +69,7 @@ Double-check that the function you built is correct by verifying that the digit 
 
 The **digital root** of a positive integer is the one-digit number we end up at by repeatedly summing the digits until we end up with a single digit number.
 
-**Example:** the sum of the digits of $$72263$$ is $$20$$.  The sum of the digits of $$20$ is $$2$$, so the digital root of $$772263$$ is $$2$.
+**Example:** the sum of the digits of $$72263$$ is $$20$$.  The sum of the digits of $$20$ is $$2$$, so the digital root of $$772263$$ is $$2$$.
 
 **Example:** the sum of the digits of $$99191178478$$ is $$64$$.  The sum of the digits of $$64$$ is $$10$$.  The sum of the digits of $$10$$ is $$1$$, so the digital root of $$99191178478$$ is $$1$$
 
