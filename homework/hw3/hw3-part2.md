@@ -24,5 +24,11 @@ is to understand that this is the area under the curve defined by $$f(x)$$ and c
 
 $$\sum_{k=1}^n f(x_k)\Delta x,\quad\text{where}\ \Delta x= \frac{b-a}{n},\ x_k = k\Delta x + a$$
 
-Write a function called gaussian_area(a,b,n) which takes in the endpoints of the interval of integration $$[a,b]$$ and the number of rectangles to be used and returns the corresponding right Riemann sum with $$n$$ rectangles.
+Write a function called
+
+```Matlab
+gaussian_area(a,b,n)
+```
+
+which takes in the endpoints of the interval of integration $$[a,b]$$ and the number of rectangles to be used and returns the corresponding right Riemann sum with $$n$$ rectangles approximating the area under the curve $$f(x) = e^{-x^2}$$.
 
