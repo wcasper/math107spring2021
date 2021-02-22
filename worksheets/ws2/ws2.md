@@ -91,4 +91,8 @@ Determine whether the number $$12312310134132$$ is divisible by $$9$$.
 
 * <a target="_parent" href="https://en.wikipedia.org/wiki/Harmonic_number">Harmonic numbers (link)</a>
 * <a target="_parent" href="https://en.wikipedia.org/wiki/Euler-Mascheroni_constant">Euler-Mascheroni constant (link)</a>
+* <a target="_parent" href="https://wcasper.github.io/math107spring2021/worksheets/ws2/loop_practice.m">loop code from lecture(link)</a>
+* <a target="_parent" href="https://wcasper.github.io/math107spring2021/worksheets/ws2/harmonic_number.m">correct function code for harmonic_number (link)</a>
+* <a target="_parent" href="https://wcasper.github.io/math107spring2021/worksheets/ws2/sum_digits.m">correct function code for sum_digits (link)</a>
+
 
