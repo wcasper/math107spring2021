@@ -100,6 +100,9 @@ As a rule of thumb
 
 ## Additional resources
 
+**Lecture notes:** <a target="_parent" href="https://wcasper.github.io/math107spring2021/extras/notes/2021-02-17-Note-10-12.pdf">notes for lecture (link)</a>
 
+**Lecture video:** <a target="_parent" href="https://fullerton.zoom.us/rec/share/va-Hxuap6WKvX3VbGJnWPrUzVd_MBrWoAfsnBUS-AUjytIpmQG3s3gVeHyqaBBlF.kuIZNi9vfav_ewjv">recording of lecture (link)</a>
 
+The passcode can be found on the <a target="_parent" href="https://csufullerton.instructure.com/courses/3127326/pages/video-lecture-keys">passcode page (link)</a>
 
