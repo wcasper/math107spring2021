@@ -114,3 +114,11 @@ x = myfunction(y);
 ## Additional resources
 **Worksheet for today:** <a target="_parent" href="https://wcasper.github.io/math107spring2021/worksheets/ws3">common mistakes (link)</a>
 
+
+**Lecture notes:** <a target="_parent" href="https://wcasper.github.io/math107spring2021/extras/notes/2021-02-22-Note-09-56.pdf">notes for lecture (link)</a>
+
+**Lecture video:** <a target="_parent" href="https://fullerton.zoom.us/rec/share/bejulRHl7binyw-yU5LoDa0StGVay_pEaTxELmNjUA_nHIlRwemSa1UOJrgnC_gw.odjLTm9ilBg-hMlH">recording of lecture (link)</a>
+
+The passcode can be found on the <a target="_parent" href="https://csufullerton.instructure.com/courses/3127326/pages/video-lecture-keys">passcode page (link)</a>
+
+
