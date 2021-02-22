@@ -116,5 +116,11 @@ Unrecognized function or variable 'total'.
 
 **Problem:** Explan what is wrong with the code and how to fix it.
 
+## Part 5
 
+### Discussion Topic
+
+Think back to your programming experience thus far.  If you were teaching a friend how to code, can you think of some pitfall that you ran into that you would make sure to point out?
+
+**Problem:** Discuss this with your group members and be ready to share with the class!
 
