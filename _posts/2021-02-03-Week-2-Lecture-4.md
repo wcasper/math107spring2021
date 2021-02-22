@@ -158,8 +158,6 @@ find(A>=2)   % returns index or indices where the entries of A are 2 or greater
 
 **Lecture video:** <a target="_parent" href="https://fullerton.zoom.us/rec/share/L_AB9vN9xAJQ0jst8EpXClJYabiyTo3jcSNa5TPIZb43iZTBqWFVXP7cTze6R1qs.ZFjqxW__ZQU8-nmW">recording of lecture (link)</a>
 
-Passcode: f13h!iq%
-
 The passcode can be found on the <a target="_parent" href="https://csufullerton.instructure.com/courses/3127326/pages/video-lecture-keys">passcode page (link)</a>
 
 **images for lecture:**

@@ -174,6 +174,8 @@ The output of this code is "I don't know what your name is".
 
 ## Additional resources
 
+**Lecture video:** <a target="_parent" href="https://fullerton.zoom.us/rec/share/Ye22MI_G-BGuaIfQml6KHb0uo2raxVd6obL5qS6BlVWCavRH0E5Hs0-5iA7dHHKR.0f7nRGdp-bI6o1jX">recording of lecture (link)</a>
 
+The passcode can be found on the <a target="_parent" href="https://csufullerton.instructure.com/courses/3127326/pages/video-lecture-keys">passcode page (link)</a>
 
 

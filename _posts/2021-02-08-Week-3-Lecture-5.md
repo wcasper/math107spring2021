@@ -142,6 +142,9 @@ pie(sales,store_loc)
 
 ## Additional resources
 
+**Lecture video:** <a target="_parent" href="https://fullerton.zoom.us/rec/share/xllSxXW_hLUd10nsVLB_Sugv4n8B76nnRQ94keBjaR_TgLCFcKMC8TIfahytk0BU.46xsYxZOw6dVgOKz">recording of lecture (link)</a>
+ Passcode: @z5^MiJ1
 
+The passcode can be found on the <a target="_parent" href="https://csufullerton.instructure.com/courses/3127326/pages/video-lecture-keys">passcode page (link)</a>
 
 
