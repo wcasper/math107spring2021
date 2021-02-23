@@ -17,15 +17,15 @@ Notes and highlights from lecture
 
 ### Vector addition
 
-![Vector addition](/extras/img/vector-addition.png)
+![Vector addition](/math107spring2021/extras/img/vector-addition.png)
 
 ### Vector subtraction
 
-![Vector subtraction](/extras/img/vector-subtraction.png)
+![Vector subtraction](/math107spring2021/extras/img/vector-subtraction.png)
 
 ### Scalar multiplication
 
-![Scalar multiplication](/extras/img/scalar-multiplication.png)
+![Scalar multiplication](/math107spring2021/extras/img/scalar-multiplication.png)
 
 ## Additional resources
 
