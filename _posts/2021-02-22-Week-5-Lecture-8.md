@@ -18,23 +18,7 @@ Notes and highlights from lecture
 
 ### What is scope
 
-We can actually define new ariables *inside* a for or while loop.  For example
-
-```Matlab
-for k=1:5
- myvar = k;
-end
-```
-
-When we do this we have a bit of a **Vegas Situation** (what happens in Vegas stays in Vegas).  More accurately, if *myvar* was not defined before the start of the loop, then after the loop is over it will still not be defined.  It is defined only for the duration of the loop.  Thus if then tried to use the code
-
-```Matlab
-x = myvar
-```
-
-MATLAB would complain and say *myvar* isn't defined!  This idea that variables may be **local** and not seen by the entire MATLAB Workspace is referred to as **scope**.  In particular, the **scope** of a variable is the precisely the part of the code wherein it remains defined.
-
-Scope also exists in functions!  For example, suppose I have a file called *mycoolfunction.m* whose content is
+When we define variables within functions, we have a bit of a **Vegas Situation** (what happens in Vegas stays in Vegas).  More accurately, if *myvar* is a variable in the function, the Workspace itself does not see it.  For example, suppose I have a file called *mycoolfunction.m* whose content is
 
 ```Matlab
 function epicness = mycoolfunction(x)
