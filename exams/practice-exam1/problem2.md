@@ -16,7 +16,7 @@ y2 &= x(1-x^2)\\
 y3 &= x - x^3 + \frac{1}{2}x^5
 \end{align}$$
 
-c) On the same plot, plot the curves *y1*, *y2*, and *y3* as functions of $$x$$ (i.e., the horizontal axis should represent values ofxand the vertical axis should represent values of the functions).  Use different colors and line styles for each curve.
+c) On the same plot, plot the curves *y1*, *y2*, and *y3* as functions of $$x$$ (i.e., the horizontal axis should represent values of *x* and the vertical axis should represent values of the functions).  Use different colors and line styles for each curve.
 
 d) Label the horizontal axis as *x* and the vertical axis as *y*, and add a legend to your plot.
 
