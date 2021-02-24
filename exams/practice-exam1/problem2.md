@@ -18,7 +18,7 @@ y3 &= x - x^3 + \frac{1}{2}x^5
 
 c) On the same plot, plot the curves *y1*, *y2*, and *y3* as functions of $$x$$ (i.e., the horizontal axis should represent values ofxand the vertical axis should represent values of the functions).  Use different colors and line styles for each curve.
 
-d) Label the horizontal axis asxand the vertical axis asy, and add a legend to your plot.
+d) Label the horizontal axis as *x* and the vertical axis as *y*, and add a legend to your plot.
 
 e) Save and submit the figure with the rest of your exam files on Canvas.
 
