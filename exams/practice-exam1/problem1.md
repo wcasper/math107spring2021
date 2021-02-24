@@ -26,7 +26,7 @@ M = randi(9,10,10);
 J = randi(3,10,3);
 ```
 
-to create a particular $$10\times 10$$ matrix $$M$$ and another $$10\times 3$$ matrix $$J$$.  Then create a $$10\times 3$$ matrix $$K$$ whose value is the horizontal concatenation of $$M$$ and $$J$$, with $$J$$ on the right.
+to create a particular $$10\times 10$$ matrix $$M$$ and another $$10\times 3$$ matrix $$J$$.  Then create a $$10\times 13$$ matrix $$K$$ whose value is the horizontal concatenation of $$M$$ and $$J$$, with $$J$$ on the right.
 
 e) Create a matrix $$N$$ by first setting $$N=M$$ and then setting all of the entries of $$N$$ which are less than $$5$$ equal to $$0$$.
 
