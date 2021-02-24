@@ -21,6 +21,7 @@ $$A = \left(\begin{array}{cccc}
 d) Use the MATLAB commands
 
 ```Matlab
+rng(1234);
 M = randi(9,10,10);
 J = randi(3,10,3);
 ```
