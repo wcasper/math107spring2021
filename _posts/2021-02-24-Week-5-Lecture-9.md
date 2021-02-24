@@ -15,6 +15,8 @@ Notes and highlights from lecture
 
 ## Vectors
 
+We describe the two-dimensional situation.  The three dimensional situation and higher are similar.
+
 ### Vector addition
 
 ![Vector addition](/math107spring2021/extras/img/vector-addition.png)
@@ -26,6 +28,17 @@ Notes and highlights from lecture
 ### Scalar multiplication
 
 ![Scalar multiplication](/math107spring2021/extras/img/scalar-multiplication.png)
+
+
+### Magnitude of a vector
+
+The magnitude of a vector $$\vec u = [u_1\ u_2]$$ is the length of the vector
+$$\|\vec u\| = \sqrt{u_1^2 + u_2^2}.$$
+
+
+## Example applications
+
+We swim directly East at $$1$$ mph across a river which flows at $$5$$ mph directly South.  What is the resultant velocity and speed?
 
 ## Additional resources
 
