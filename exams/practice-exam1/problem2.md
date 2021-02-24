@@ -8,7 +8,7 @@ permalink: /exam1/practice-exam1/problem2
 
 a) Create a row vector $$x$$ whose first entry is $$-1$$, whose last entry is $$1$$, and whose entries increase in increments of $$0.01$$
 
-b) Define variables $$y1$$, $$y2$$, and $$y3$$ by
+b) Define variables *y1*, *y2*, and *y3* by
 
 $$\begin{align}
 y1 &= x\exp(-x^2)\\
