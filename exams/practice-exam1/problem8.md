@@ -11,7 +11,7 @@ Consider the following code
 ```
 error = 1.0;
 x = 1
-while(error < 0.01)
+while(error > 0.01)
   x = x - x/2 + 1/x;
   error = abs(x*x-2);
 end
