@@ -29,7 +29,7 @@ J = ones(3,9);
 
 to create a particular $$9\times 9$$ matrix $$H$$ and $$3\times 9$$ matrix $$J$$.
 
-Then create a $$12x9$$ matrix by appending $$J$$ to the top of the matrix $$H$$.
+Then create a $$12x9$$ matrix $$Q$$ by appending $$J$$ to the top of the matrix $$H$$.
 
 e) Create a matrix $$F$$ by first setting $$F=H$$ and then setting all of the entries of $$F$$ which are $$\leq 0.1$$ equal to $$0$$.
 
