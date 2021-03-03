@@ -12,7 +12,7 @@ $$ax^2 + bx + c = 0$$
 
 is given by
 
-$$x = \frac{-b + \sqrt{b^2-4ac}{2a}.$$
+$$x = \frac{-b + \sqrt{b^2-4ac}}{2a}.$$
 
 a) Create a function called *quadratic_root* whose inputs are the coefficients *a*, *b*, and *c* (in that order) and whose output is the particular root specified above.
 Be sure to carefully and appropriately document your function.
