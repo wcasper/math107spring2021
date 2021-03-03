@@ -16,11 +16,11 @@ $$Q = \left(\begin{array}{ccc}
  \Delta & z &  \clubsuit
 \end{array}\right)$$
 
-a) Write down the values of $$L(5,1)$$, $$L(3,3)$$, and $$L(2,3)$$.  Be sure to specify which is which.
+a) Write down the values of $$Q(5,1)$$, $$Q(3,3)$$, and $$Q(2,3)$$.  Be sure to specify which is which.
 
-b) Write down an MATLAB expression which will create the $$3\times 2$$ submatrix of $$L$$ obtained by deleting the middle row and the middle column
+b) Write down an MATLAB expression which will create the $$4\times 2$$ submatrix of $$Q$$ obtained by deleting the middle row and the middle column
 
-c) Write down the value of the matrix $$L(1:2:end,1:end)$$
+c) Write down the value of the matrix $$Q(1:2:end,1:end)$$
 
 ## Problem 7
 
