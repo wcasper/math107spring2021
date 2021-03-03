@@ -17,7 +17,7 @@ $$\text{velocity at $t$} = \left\lbrace\begin{array}{cc}
 \end{array}\right.$$
 
 
-a) Create a function called *car_velocity* which takes in the time *t* and returns the velocity of the car at that particular time.
+a) Create a function called *car_velocity* which takes in the time *t* and returns the velocity of the car at that particular time.  Make sure to include appropriate documentation!
 
 b) Submit your function online and also include a copy of the file *car_velocity.m* with the rest of your submission files.
 
