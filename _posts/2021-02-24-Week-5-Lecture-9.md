@@ -43,9 +43,9 @@ We swim directly East at $$1$$ mph across a river which flows at $$5$$ mph direc
 ## Additional resources
 
 
-**Lecture notes:** <a target="_parent" href="https://wcasper.github.io/math107spring2021/extras/notes/2021-02-22-Note-09-56.pdf">notes for lecture (link)</a>
+**Lecture notes:** <a target="_parent" href="https://wcasper.github.io/math107spring2021/extras/notes/2021-02-24-Note-08-55.pdf">notes for lecture (link)</a>
 
-**Lecture video:** <a target="_parent" href="">recording of lecture (link)</a>
+**Lecture video:** <a target="_parent" href="https://fullerton.zoom.us/rec/share/mJEigWgFx8pGfGXhXSOGHTp4GNxAXyBYbfdhsbwkyah8dfjPcXe08XYoaFEQPiIf.IMFTAwj-TEvKKR72">recording of lecture (link)</a>
 
 The passcode can be found on the <a target="_parent" href="https://csufullerton.instructure.com/courses/3127326/pages/video-lecture-keys">passcode page (link)</a>
 
