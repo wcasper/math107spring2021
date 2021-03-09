@@ -10,7 +10,7 @@ permalink: /homework/hw5/hw5-part1
 Create a function called **xmatrix** which takes in an integer $$n$$ and returns an $$n\times n$$ matrix $$A$$ whose value is
 
 $$A =
-\left(\lbrace{ccccccc}
+\left(\begin{array}{ccccccc}
 1 & 0 & 0 & \dots& 0 & 0 & 1\\
 0 & 1 & 0 & \dots& 0 & 1 & 0\\
 0 & 0 & 1 & \dots& 1 & 0 & 0\\
