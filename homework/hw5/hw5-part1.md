@@ -11,14 +11,15 @@ Create a function called **xmatrix** which takes in an integer $$n$$ and returns
 
 $$A =
 \left(\begin{array}{ccccccc}
-1 & 0 & 0 & \dots& 0 & 0 & 1\\
-0 & 1 & 0 & \dots& 0 & 1 & 0\\
-0 & 0 & 1 & \dots& 1 & 0 & 0\\
+1 & 0 & 0 & \dots & 0 & 0 & 1\\
+0 & 1 & 0 & \dots & 0 & 1 & 0\\
+0 & 0 & 1 & \dots & 1 & 0 & 0\\
 \vdots & \vdots & \vdots & \ddots & \vdots & \vdots & \vdots\\
-0 & 0 & 1 & \dots& 1 & 0 & 0\\
-0 & 1 & 0 & \dots& 0 & 1 & 0\\
-1 & 0 & 0 & \dots& 0 & 0 & 1\\
+0 & 0 & 1 & \dots & 1 & 0 & 0\\
+0 & 1 & 0 & \dots & 0 & 1 & 0\\
+1 & 0 & 0 & \dots & 0 & 0 & 1
 \end{array}\right)
+$$
 
 ie. ones one the main diagonal and anti-diagonal and zeros elsewhere.  Don't use any built-in functions for this!  Be sure to include good documentation in the file, including
 * USEAGE:
