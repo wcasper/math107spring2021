@@ -21,7 +21,7 @@ $$A =
 \end{array}\right)
 $$
 
-ie. ones one the main diagonal and anti-diagonal and zeros elsewhere.  Don't use any built-in functions for this!  Be sure to include good documentation in the file, including
+ie. ones one the main diagonal and anti-diagonal and zeros elsewhere.  Don't use any built-in functions for this, except for the function *zeros*.  Be sure to include good documentation in the file, including
 * USEAGE:
 * INPUTS:
 * OUTPUT:
