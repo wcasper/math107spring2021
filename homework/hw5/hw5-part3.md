@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Homework 5 Part 3
-permalink: /homework/hw5/hw5-part2
+permalink: /homework/hw5/hw5-part3
 ---
 
 ## Written Portion
