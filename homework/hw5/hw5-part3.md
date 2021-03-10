@@ -16,13 +16,13 @@ $$\vec v = \binom{3}{5},\quad \vec w = \binom{-3}{6}$$
 
 Plot by hand the following vectors
 
-a) \vec v
+a) $$\vec v$$
 
-b) \vec w
+b) $$\vec w$$
 
-c) \vec v + \vec w
+c) $$\vec v + \vec w$$
 
-d) \vec v - \vec w
+d) $$\vec v - \vec w$$
 
 
 **Problem 4:**
@@ -48,7 +48,7 @@ $$
 
 Determine for which values of $$x$$ we have $$AB = BA$$.
 
-c) Let 
+d) Let 
 
 $$
 A = \left(\begin{array}{cc}
@@ -56,7 +56,7 @@ A = \left(\begin{array}{cc}
 1 & 1
 \end{array}\right),\quad
 B = \left(\begin{array}{cc}
-2  & 1\\
+3  & 1\\
 -1 & 1
 \end{array}\right),\quad
 C = \left(\begin{array}{cc}
