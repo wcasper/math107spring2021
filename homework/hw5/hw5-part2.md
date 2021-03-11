@@ -24,7 +24,7 @@ function total = sum_entries(A)
   for j=1:nrows
     # sum over all columns
     for k=1:ncols
-      total = total + A(j,k);
+      total = total + A(j,k);  # add the (j,k) element of A to the total
     end
   end
 
@@ -33,7 +33,20 @@ end
 
 
 **Problem 2:**
-Create a function called *num4plus* which takes in a matrix $$A$$ and returns the number of entries of $$A$$ which are greater than or equal to $$4$$. Do not use any built-in functions! Also don't name any variables *sum*.  You might consider taking the function we have above and **modifying it** to calculate what you want.
+Create a function called *num4plus* which takes in a matrix $$A$$ and returns the number of entries of $$A$$ which are greater than or equal to $$4$$. Do not use any built-in functions! Also don't name any variables *sum*.  You might consider taking the function we have above and **modifying it** to calculate what you want.  In particular, you should
+* change the name of the function
+* add an if statement inside the second for loop which decides if we should add something to the total
+* change this code
+
+```Matlab
+total = total + A(j,k);
+```
+
+into this code
+
+```Matlab
+total = total + 1;
+```
 
 Be sure to include good documentation in the file, including
 * USEAGE:
