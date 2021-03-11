@@ -13,7 +13,8 @@ function total = sum_entries(A)
 #USEAGE: total = sum_entries(A)
 #INPUTS: A -- input matrix
 #OUTPUT: total -- the sum of the entries of the matrix
-#DETAILED DESCRIPTION:  this function calculates the sum of the entries of the matrix A
+#DETAILED DESCRIPTION:
+#  this function calculates the sum of the entries of the matrix A
 
 [nrows,ncols] = size(A); # get number of rows and columns
 
