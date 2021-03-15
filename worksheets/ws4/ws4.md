@@ -20,7 +20,7 @@ where here $$c$$ is some fixed complex number.
 
 We can think of $$z_n$$ as the complex coordinate of a particle at time $$n$$, so that the above describes how the position of the particle changes over time.
 
-For some starting positions in the complex plane, the evolution causes the particle to zoom away from the origin.  Remember, the distance from the origin is given by the modulus $$|z|$$ of a complex number $$z$$.  We can decide how stable an initial point $$z_0$$ is by determining how long $$z_n$$ remains with relatively small magnitude, ie. by determining what the largest value of $$n$$ is satisfying $$|z_n|<2000$$.  By coloring points in the complex plane according to how much time it takes for $$|z|>2000$$, we generate a very beautiful pattern called a **Julia set**.  In this worksheet, we will create some examples of Julia sets.
+For some starting positions in the complex plane, the evolution causes the particle to zoom away from the origin.  Remember, the distance from the origin is given by the modulus $$\lvert z\rvert$$ of a complex number $$z$$.  We can decide how stable an initial point $$z_0$$ is by determining how long $$z_n$$ remains with relatively small magnitude, ie. by determining what the largest value of $$n$$ is satisfying $$\lvert z_n\rvert <2000$$.  By coloring points in the complex plane according to how much time it takes for $$\lvert z\rvert >2000$$, we generate a very beautiful pattern called a **Julia set**.  In this worksheet, we will create some examples of Julia sets.
 
 ### Part 1
 Let's practice the dynamical system that we've described above.  Suppose that $$z_0 = 1 + i$$ and that $$c = 0.5 + 0.5i$$
