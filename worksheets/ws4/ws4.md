@@ -34,8 +34,8 @@ We will start by creating a $$1000\times 1000$$ matrix of complex numbers $$Z(j,
 Let's first consider a smaller example.  Suppose that
 
 ```Matplotlib
-x = [-1.5\ -1.0\ -0.5\ 0.0\ 0.5\ 1.0\ 1.5];
-y = [-1.5\ -1.0\ -0.5\ 0.0\ 0.5\ 1.0\ 1.5];
+x = [-1.5 -1.0 -0.5 0.0 0.5 1.0 1.5];
+y = [-1.5 -1.0 -0.5 0.0 0.5 1.0 1.5];
 ```
 
 Then the command
