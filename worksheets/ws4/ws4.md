@@ -69,7 +69,7 @@ $$Y = \left[\begin{array}{ccccccc}
 Then we can use the command 
 
 ```Matlab
-Z = X + iY;
+Z = X + i*Y;
 ```
 
 to create the matrix
