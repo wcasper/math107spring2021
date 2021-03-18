@@ -38,8 +38,8 @@ Let $$z = 2 + 5i$$ and $$w = -1-3i$$.  Write each of the following expressions i
 * (c) $$\frac{z}{w}$$
 * (d) $$z + w$$
 * (e) $$z - w$$
-* (f) $$|z|$$
-* (g) $$|w|$$
+* (f) $$\lvert z\rvert$$
+* (g) $$\lvert w\rvert$$
 * (h) $$z^4$$
 
 **Problem 5:**
