@@ -34,7 +34,7 @@ Write each of the following complex numbers as $$a+ib$$ for some real numbers $$
 
 Let $$z = 2 + 5i$$ and $$w = -1-3i$$.  Write each of the following expressions in $$a+ib$$ form.
 * (a) $$zw$$
-* (b) $$\ol ww$$
+* (b) $$\overline ww$$
 * (c) $$\frac{z}{w}$$
 * (d) $$z + w$$
 * (e) $$z - w$$
