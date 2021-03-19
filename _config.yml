@@ -53,6 +53,9 @@ minima:
 header_pages:
  - about.md
  - extras/syllabus.md
+ - homework-list.md
+ - exams-list.md
+ - worksheet-list.md
 
 # Build settings
 theme: minima
@@ -60,3 +63,14 @@ theme: minima
 plugins:
  - jekyll-feed
  - jekyll-seo-tag
+
+# create a collection of topics and homework
+collections:
+  homework:
+    output: true
+  exams:
+    output: true
+  worksheets:
+    output: true
+
+
