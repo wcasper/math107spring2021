@@ -47,7 +47,7 @@ $$C = \left[\begin{array}{cccccc}
 0 & 1 & 2 & 1 & 0 & 0\\
 1 & 0 & 3 & 0 & 1 & 0\\
 4 &-3 & 7 & 0 & 0 & 1
-\end{array}\right]
+\end{array}\right]$$
 
 **Problem 3:**
 
