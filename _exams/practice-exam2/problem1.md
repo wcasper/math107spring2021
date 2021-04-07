@@ -6,7 +6,7 @@ permalink: /exams/practice-exam2/problem1
 
 ## Problem 1
 
-Create a function called *mightyMAT* which takes in integers $$m$$ and $$n$$ and returns an $$m\times n$$ matrix $$A$$ whose $$(j,k)$$ entry is
+Create a function called *mightyMAT(m,n)* which takes in integers $$m$$ and $$n$$ and returns an $$m\times n$$ matrix $$A$$ whose $$(j,k)$$ entry is
 
 $$A(j,k) = j^k$$
 
