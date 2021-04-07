@@ -27,13 +27,13 @@ A(j,:)
 Likewise, the $$k$$'th column of $$B$$ is given by
 
 ```Matlab
-A(:,k)
+B(:,k)
 ```
 
 Remember that the $$(j,k)$$ entry of the matrix product $$AB$$ of $$A$$ and $$B$$ is the dot product of the $$j$$'th row vector of $$A$$ with the $$k$$'th column vector of $$B$$.  Thus in MATLAB, it can be calculated by
 
 ```Matlab
-dot(A(j,:),A(:,k))
+dot(A(j,:),B(:,k))
 ```
 
 * a) Using the above comments, create a function called *matprod* which takes in two matrices $$A$$ and $$B$$ and returns the matrix product $$AB$$ using a nested loop.
