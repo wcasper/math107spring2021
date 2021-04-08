@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Practice Exam 1 Written Portion
-permalink: /exams/exam1/written-portion
+title: Practice Exam 2 Written Portion
+permalink: /exams/exam2/written-portion
 ---
 
 ## Problem 3
