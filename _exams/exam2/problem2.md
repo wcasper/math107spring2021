@@ -10,6 +10,6 @@ The $$n$$'th **truncated Weierstrass factorization** of $$\sin(\pi x)$$ is given
 
 $$p(x,n) = \pi x \left(1-\left(\frac{x}{1}\right)^2\right)\left(1-\left(\frac{x}{2}\right)^2\right)\left(1-\left(\frac{x}{3}\right)^2\right)\dots\left(1-\left(\frac{x}{n}\right)^2\right)$$
 
-Create a function called *sinWeirstrass(x,n)* which takes in a number $$x$$ and an integer $$n$$ and returns $$p(x,n)$$ according to the equation above.  Be sure to carefully document your function.  Input your function into MATLAB grader below and also include a copy in the additional uploads part of the exam.
+Create a function called *sinWeierstrass(x,n)* which takes in a number $$x$$ and an integer $$n$$ and returns $$p(x,n)$$ according to the equation above.  Be sure to carefully document your function.  Input your function into MATLAB grader below and also include a copy in the additional uploads part of the exam.
 
 
