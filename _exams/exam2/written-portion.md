@@ -83,9 +83,9 @@ There is no need to justify your answers.
 
 * (a) If a linear system of equations has more than one solution, then it must have infinitely many solutions.
 * (b) If $$A$$, $$B$$, and $$C$$ are nonzero $$2\times 2$$ matrices and $$AB = AC$$ then $$B=C$$.
-* (c) The linear system of equations corresponding to the following augmented matrix is inconsistent:
+* (c) The linear system of equations corresponding to the following augmented matrix for three equations and there variables is inconsistent:
 
-$$\left[\begin{array}{ccc|c}
+$$\left[\begin{array}{cccc}
 2 & 3 & 7 & 1\\
 4 & 2 & 3 & 9\\
 0 & 0 & 0 & 2\\
