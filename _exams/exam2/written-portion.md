@@ -43,7 +43,7 @@ Solve the following problems by hand and carefully show your work.
 
 * (a) Let $$z=2-3i$$ and $$w=-5+2i$$.  Rewrite the complex number $$\frac{w}{z}$$ in $$a+ib$$ form.
 * (b) Let $$z = 3 + 3i$$.  Rewrite $$z$$ in the form $$z = re^{i\theta}$$ for some real numbers $$r>0$$ and $$0\leq \theta < 2\pi$$.
-* (c) Calculate the value of $$(2-2\sqrt{3}i)^{20}$$ in $$a + ib$$ form.
+* (c) Calculate the value of $$(3+3i)^{20}$$ in $$a + ib$$ form.
 
 ## Problem 5
 
