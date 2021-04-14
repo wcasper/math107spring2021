@@ -57,7 +57,7 @@ $$\left(\begin{array}{cc}
 
 * (c) Consider the matrices
 
-$$A = \left[\begin{array}{ccc} -2 & -2 & 4\end{array}\right]
+$$A = \left[\begin{array}{ccc} -2 & -2 & 4\\ 1 & 1 & 0\end{array}\right]
 \quad
 B = \left[\begin{array}{ccc} 4 & -2 & 3\\ 0 & 5 & 2\\ 3 & 2 & -1\end{array}\right]$$
 
