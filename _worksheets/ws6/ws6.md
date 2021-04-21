@@ -39,7 +39,7 @@ $$C = 15x + 100000.$$$
 
 This linear model can now be used to **predict costs**.
 
-![linear fit](/math107spring2021/extras/img/linearfit.jpg)
+![linear fit](/math107spring2021/worksheets/ws6/linearfit.jpg)
 
 **Question:** Suppose you have a friend who owns a house in Coolsville that he wants to sell.  If the interior square footage of the house is $$1300$$, what would you estimate your friend will be able to sell his home for?
 
