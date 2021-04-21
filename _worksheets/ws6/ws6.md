@@ -160,6 +160,15 @@ $$A\left[\begin{array}{c} a \\ b \\ c \\ d\end{array}\right] = \vec y$$
 where here $$A$$ is the matrix whose colums are the right four columns in the table above and $$\vec y$$ is the column of house prices.
 We can use the same tactic as before to find values of the coefficients $$a,b,c,$$ and $$d$$ making our linear model most closely resemble the data.
 
+We start by multiplying both sides by the transpose of $$A$$
+
+$$A^TA\left[\begin{array}{c} a \\ b \\ c \\ d\end{array}\right] = A^T\vec y.$$
+
+Then we use the inverse of $$A^TA$$ to obtain our solution!
+
+$$\left[\begin{array}{c} a \\ b \\ c \\ d\end{array}\right] = (A^TA)^{-1}(A^T\vec y).$$
+
+
 * (a) Create the $$A$$ matrix described in the linear regression section above in MATLAB.
 * (b) Create the vector $$\vec y$$ described above in MATLAB.
 * (c) Use MATLAB to calculate $$A^TA$$, $$(A^TA)^{-1}$$ and $$A^T\vec y$$
