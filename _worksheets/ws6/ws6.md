@@ -179,7 +179,7 @@ $$\left[\begin{array}{c} a \\ b \\ c \\ d\end{array}\right] = (A^TA)^{-1}(A^T\ve
 ## Additional resources
 
 Ready for the big leagues?  Try your luck at predicting house prices using the data in the following data set.  Feel free to reach out for help with getting started, such as how to read in the data.
-**Big house cost data set:** <a target="_parent" href="https://wcasper.github.io/math107spring2021/worksheets/ws6/house-data.csv">house-data.csv (link)</a>
+* **Big house cost data set:** <a target="_parent" href="https://wcasper.github.io/math107spring2021/worksheets/ws6/house-data.csv">house-data.csv (link)</a>
 
 
 
