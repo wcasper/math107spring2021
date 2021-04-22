@@ -89,7 +89,7 @@ By measuring the values of a rocket during flight, an observer finds that the ve
 
 Of course, the observer's measurements will have a certain amount of measurement error.
 
-* (a) Perform a **linear curve fit** of this data set to the cubic equation above.  You may use MATLAB to calculate the necessary matrix products and solve the required system, but be sure to carefully document everything you do by hand.
+* (a) Perform a **least squares fit** of this data set to the cubic equation above.  You may use MATLAB to calculate the necessary matrix products and solve the required system, but be sure to carefully document everything you do by hand.
 * (b) Use the curve fit you found to estimate the jerk $$j$$ for this particular rocket.
 
 
@@ -114,7 +114,7 @@ A scientist measuring the imaginarium finds that the mass of the isotope versus 
 
 However, it is somewhat difficult to measure the quantity of isotope due to the presence of other degenerate compounds, leading to some measurement errors.
 
-* (a) Perform a **linear curve fit** of this data set to the exponential model above.  You may use MATLAB to calculate the necessary matrix products and solve the required system, but be sure to carefully document everything you do by hand.
+* (a) Perform a **least squares fit** of this data set to the exponential model above.  You may use MATLAB to calculate the necessary matrix products and solve the required system, but be sure to carefully document everything you do by hand.
 * (b) Use the curve fit you found to estimate the half-life of imaginarium.
 * (c) Use the results from (a) and (b) to esimate how many days until only $$1/4$$ of the original mass of the imaginarium will remain.
 
