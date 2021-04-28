@@ -47,7 +47,7 @@ $$A = \left[
 
 $$B = \left[
 \begin{array}{cc}
-1-x & 1 &-1\\
+1-x & 1 &2\\
 0 & 2-x &2\\
 -1 &2 & 3-x
 \end{array}
