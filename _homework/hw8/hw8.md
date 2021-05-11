@@ -65,7 +65,7 @@ $$
 
 It is known that the height $$y$$ of a rocket during a steady engine burn is given by a cubic equation
 
-$$y(t) = ax^3 + bx^2 + cx + d.$$
+$$y(t) = at^3 + bt^2 + ct + d.$$
 
 The rate of change of the acceleration during the flight is an important part of the engine's performance and is called the **jerk** and given by
 
