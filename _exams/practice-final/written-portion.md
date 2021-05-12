@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Pracice Final Exam Written Portion
+title: Practice Final Exam Written Portion
 permalink: /exams/practice-final/written-portion
 ---
 
