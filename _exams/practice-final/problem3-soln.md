@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Practice Final Problem 3
-permalink: /exams/practice-final/problem3
+title: Practice Final Problem 3 Solution
+permalink: /exams/practice-final/problem3-soln
 ---
 
 ## Problem 3

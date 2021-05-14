@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Practice Final Exam Written Portion
-permalink: /exams/practice-final/written-portion
+title: Practice Final Exam Written Portion Solution
+permalink: /exams/practice-final/written-portion-soln
 ---
 
 ## Problem 6
