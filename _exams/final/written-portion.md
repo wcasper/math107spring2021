@@ -78,7 +78,7 @@ $$\left\lbrace\begin{array}{cc}
 7x + 2y + z &= 21\\
 3y-z &= 5\\
 -3x + 4y-2z &= -1
-\end{array}\right.
+\end{array}\right.$$
 
 ## Problem 9
 
