@@ -13,6 +13,14 @@ For this problem, you will write a script which will plot the first three Bessel
 The Bessel functions are such important special functions, that MATLAB already has a way to calculate them automatically!
 To do so you will use the command *besselj(n,x)* which returns the value of the $$n$$'th bessel function at position $$x$$.
 
+For example, the code
+
+```Matlab
+y = besselj(2,1.1)
+```
+sets $$y$$ equal to the value of the second Bessel function at $$x = 1.1$$
+
+
 Write a script which does the following
 
 * (a) Creates a variable *x* whose values are $$100$$ evenly spaced points between $$0$$ and $$20$$
