@@ -16,7 +16,7 @@ Consider the following lines of MATLAB code.  Determine the final values of the 
 k = 13;
 m = 0;
 
-while k != 1
+while k ~= 1
   if mod(k,2) == 1
     k = 3*k + 1;
   else
