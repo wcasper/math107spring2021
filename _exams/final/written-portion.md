@@ -58,11 +58,9 @@ No justification is required.
 
 ## Problem 8
 
-* (a) Find the values of $$a$$ for which the matrix 
+* (a) Find the values of $$a$$ for which the following matrix is invertible
 
 $$A = \left[\begin{array}{cc} 1 & 3\\a & 2\end{array}\right]$$
-
-is invertible.
 
 * (b) Give an example of two $$2\times 2$$ matrices $$A$$ and $$B$$ with $$AB \neq BA$$
 
