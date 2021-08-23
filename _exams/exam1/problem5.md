@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Practice Exam 1 Problem 5
+title: Exam 1 Problem 5
 permalink: /exams/exam1/problem5
 ---
 
