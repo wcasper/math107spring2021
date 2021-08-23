@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Practice Exam 1 Written Portion
+title: Exam 1 Written Portion
 permalink: /exams/exam1/written-portion
 ---
 
